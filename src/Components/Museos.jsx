@@ -8,11 +8,11 @@ function Museos(museos) {
     >
       {museos.museos.map((museo) => (
         <Link
-          key={museo.Código}
-          to={`/museos/${museo}`}
+          key={museo.id}
+          to={`/museo/${museo.id}`}
           className="flex flex-col  p-2 w-40 h-40 items-center 
-             bg-gray-800/50
-            gap-5 rounded-lg "
+        bg-gray-800/50
+        gap-5 rounded-lg "
         >
           <p className="text-xl uppercase font-mono font-bold">
             {museo.Nombre}
@@ -20,7 +20,6 @@ function Museos(museos) {
           <img className="h-screen w-screen" src={museo.Foto} />
         </Link>
       ))}
-      console.log(key)
     </div>
   );
 }

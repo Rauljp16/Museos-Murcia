@@ -13,7 +13,7 @@ function Home() {
       >
         <h1>titulo</h1>
         <p>parrafo para pequeña descripcion</p>
-        <Link to="/Museos">
+        <Link to="/museos">
           <button
             className=" inline-flex items-center justify-center
            p-0.5 mb-2 me-2 overflow-hidden text-xl font-medium

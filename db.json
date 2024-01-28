@@ -1,7 +1,7 @@
 {
   "museos": [
     {
-      "Código": "54",
+      "id": "54",
       "Nombre": "Aeródromo",
       "Dirección": "Avda de la Libertad, 37",
       "C.P.": "30710",
@@ -20,7 +20,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00004820012_g.jpg"
     },
     {
-      "Código": "129",
+      "id": "129",
       "Nombre": "Aquarium",
       "Dirección": "C/ Cartagena s/n. (Antiguo Cuartel de Artillería) ",
       "C.P.": "30002",
@@ -39,7 +39,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-129-3p_g.jpg"
     },
     {
-      "Código": "132",
+      "id": "132",
       "Nombre": "ARQUA Museo Nacional de Arqueología Subacuática",
       "Dirección": "Paseo Alfonso XII, 22",
       "C.P.": "30201",
@@ -63,7 +63,7 @@
       "Foto 8": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-132-4p_g.jpg"
     },
     {
-      "Código": "110",
+      "id": "110",
       "Nombre": "Casa - Museo Don Pepe Marsilla, Bullas 1900",
       "Dirección": "C/ Rosario, 1",
       "C.P.": "30180",
@@ -92,7 +92,7 @@
       "Foto 13": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-110-7p_g.jpg"
     },
     {
-      "Código": "95",
+      "id": "95",
       "Nombre": "Casa Museo Antonio Campillo",
       "Dirección": "C/ Clavijo, 1",
       "C.P.": "30562",
@@ -112,7 +112,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/mcampillomujer_g.jpg"
     },
     {
-      "Código": "91",
+      "id": "91",
       "Nombre": "Casa Museo de la Semana Santa",
       "Dirección": "C/ Cánovas del Castillo, s/n",
       "C.P.": "30530",
@@ -130,7 +130,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001920031_g.jpg"
     },
     {
-      "Código": "5768",
+      "id": "5768",
       "Nombre": "Casa Museo Miguel Hernández",
       "Dirección": "C/ Miguel Hernández, 73",
       "C.P.": "03300",
@@ -149,7 +149,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5768-2_g.jpg"
     },
     {
-      "Código": "4799",
+      "id": "4799",
       "Nombre": "Casa-Museo de los Caballos del Vino",
       "Dirección": "C/ Gregorio Javier, 21",
       "C.P.": "30400",
@@ -169,7 +169,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-4799-2_g.jpg"
     },
     {
-      "Código": "4832",
+      "id": "4832",
       "Nombre": "Casa-Museo del Belén",
       "Dirección": "Calle Olivo esquina con Travesía Torre 2, s/n,",
       "C.P.": "30006",
@@ -186,7 +186,7 @@
       "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/MUSEOS_1_4832_1_g.jpg"
     },
     {
-      "Código": "71",
+      "id": "71",
       "Nombre": "Centro de Documentación y Exposición de Cabo de Palos",
       "Dirección": "Cabo de Palos. Junto Iglesia",
       "C.P.": "70287",
@@ -203,7 +203,7 @@
       "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-71-1_g.jpg"
     },
     {
-      "Código": "4784",
+      "id": "4784",
       "Nombre": "CENTRO DE INTERPRETACIÓN DEL FOLKLORE",
       "Dirección": "C/ Empredrá, 9",
       "C.P.": "30530",
@@ -222,7 +222,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/CENTROS-INTERPRETACION_1_4784_2_g.jpg"
     },
     {
-      "Código": "42",
+      "id": "42",
       "Nombre": "Centro Etnográfico Casa del Cura",
       "Dirección": "Casa del Cura",
       "C.P.": "30890",
@@ -245,7 +245,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-4p_g.jpg"
     },
     {
-      "Código": "145",
+      "id": "145",
       "Nombre": "CENTRO LA ALBARDA DE RITOS Y TRADICIONES DEL CAMPO DE MOLINA",
       "Dirección": "Avd. de la Albarda, 74 - Pedanía La Albarda",
       "C.P.": "30507",
@@ -263,7 +263,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/museos_1_145_1_g.jpg"
     },
     {
-      "Código": "101",
+      "id": "101",
       "Nombre": "Ceutimagina",
       "Dirección": "C/ San Lucas, s/n",
       "C.P.": "30562",
@@ -282,7 +282,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000520042_g.jpg"
     },
     {
-      "Código": "8673",
+      "id": "8673",
       "Nombre": "CiuFRONT Museo Medieval de Lorca",
       "Dirección": "Calle Mayor de Santa María",
       "C.P.": "30800",
@@ -300,7 +300,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8673-1p_g.png"
     },
     {
-      "Código": "28",
+      "id": "28",
       "Nombre": "Colección Cofradía del Rollo",
       "Dirección": "C/ Portillo de la Glorieta, 24",
       "C.P.": "30520",
@@ -324,7 +324,7 @@
       "Foto 8": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001820014_g.jpg"
     },
     {
-      "Código": "19",
+      "id": "19",
       "Nombre": "Colección Museo del Mar",
       "Dirección": "C/ Lorenzo Morales, 1 Edif. Hogar del Pescador, 1ª planta",
       "C.P.": "30740",
@@ -344,7 +344,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-19-2p_g.jpg"
     },
     {
-      "Código": "103",
+      "id": "103",
       "Nombre": "Fundación Casa Pintada - Museo Cristóbal Gabarrón",
       "Dirección": "C/ San Francisco, 14",
       "C.P.": "30170",
@@ -366,7 +366,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-4_g.jpg"
     },
     {
-      "Código": "143",
+      "id": "143",
       "Nombre": "Fundación Pedro Cano",
       "Dirección": "Avenida del Río Segura S/N",
       "C.P.": "30540",
@@ -386,7 +386,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00003220103_g.jpg"
     },
     {
-      "Código": "50",
+      "id": "50",
       "Nombre": "MASS. Museo Azul de la Semana Santa",
       "Dirección": "C/ Cuesta de San Francisco, 2",
       "C.P.": "30800",
@@ -412,7 +412,7 @@
       "Foto 10": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-50-5p_g.jpg"
     },
     {
-      "Código": "14",
+      "id": "14",
       "Nombre": "MUAL. Museo Arqueológico Municipal de Lorca",
       "Dirección": "Plaza de Don Juan Moreno, s/n.",
       "C.P.": "30800",
@@ -435,7 +435,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-14-4p_g.jpg"
     },
     {
-      "Código": "34",
+      "id": "34",
       "Nombre": "muBBla, Museo de Bordados Paso Blanco",
       "Dirección": "Conjunto Monumental de Santo Domingo, 8",
       "C.P.": "30800",
@@ -456,7 +456,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-34-3p_g.jpg"
     },
     {
-      "Código": "5349",
+      "id": "5349",
       "Nombre": "MUDEM - MUSEO DEL ENCLAVE DE LA MURALLA",
       "Dirección": "Plaza del Enclave de la Muralla, s/n",
       "C.P.": "30500",
@@ -477,7 +477,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5349-3p_g.jpg"
     },
     {
-      "Código": "86",
+      "id": "86",
       "Nombre": "MUPAEN. Museo de Bordados del Paso Encarnado",
       "Dirección": "Eulogio Periago, 2",
       "C.P.": "30800",
@@ -495,7 +495,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002520031_g.jpg"
     },
     {
-      "Código": "8738",
+      "id": "8738",
       "Nombre": "Museo Aeronáutico Tiflológico (MAT)",
       "Dirección": "Paseo Colón",
       "C.P.": "30720",
@@ -515,7 +515,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8738-2p_g.jpg"
     },
     {
-      "Código": "82",
+      "id": "82",
       "Nombre": "Museo al aire libre: 'Ceutí a Cielo Abierto'",
       "Dirección": "Sin domicilio (recorrido por la localidad)",
       "C.P.": "30562",
@@ -545,7 +545,7 @@
       "Foto 14": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/joseplanes-cervantes_g.jpg"
     },
     {
-      "Código": "8",
+      "id": "8",
       "Nombre": "Museo Arqueológico ",
       "Dirección": "calle mayor nº 14",
       "C.P.": "30420",
@@ -566,7 +566,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000920014_g.jpg"
     },
     {
-      "Código": "80",
+      "id": "80",
       "Nombre": "Museo Arqueológico - Factoría Romana de Salazones",
       "Dirección": "C/ La Torre esq. San Ginés ",
       "C.P.": "30860",
@@ -591,7 +591,7 @@
       "Foto 9": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/jarritafundacional_g.jpg"
     },
     {
-      "Código": "5767",
+      "id": "5767",
       "Nombre": "Museo Arqueológico Comarcal de Orihuela - MARQUO",
       "Dirección": "C/ Hospital, 3",
       "C.P.": "03300",
@@ -608,7 +608,7 @@
       "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5767-1_g.jpg"
     },
     {
-      "Código": "12",
+      "id": "12",
       "Nombre": "Museo Arqueológico de Murcia",
       "Dirección": "Av. Alfonso X 'el Sabio', 7",
       "C.P.": "30008",
@@ -633,7 +633,7 @@
       "Foto 9": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/000029200110_g.jpg"
     },
     {
-      "Código": "99",
+      "id": "99",
       "Nombre": "Museo Arqueológico de Portmán",
       "Dirección": "C/ Caridad, s/n",
       "C.P.": "",
@@ -642,7 +642,7 @@
       "Teléfono": "968 541 614"
     },
     {
-      "Código": "111",
+      "id": "111",
       "Nombre": "",
       "Dirección": "turismo@ayto-launion.com",
       "C.P.": "",
@@ -657,7 +657,7 @@
       "Longitud": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000320043_g.jpg"
     },
     {
-      "Código": "104",
+      "id": "104",
       "Nombre": "Museo Arqueológico los Baños",
       "Dirección": "C/ Sánchez Vidal, 5",
       "C.P.": "30840",
@@ -682,7 +682,7 @@
       "Foto 9": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-104-5p_g.jpg"
     },
     {
-      "Código": "8113",
+      "id": "8113",
       "Nombre": "Museo Arqueológico Municipal Cayetano de Mergelina",
       "Dirección": "C/ España, nº 37. Palacio de los Ortega (Casa Municipal de Cultura)",
       "C.P.": "30510",
@@ -703,7 +703,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8113-5p_g.JPG"
     },
     {
-      "Código": "53",
+      "id": "53",
       "Nombre": "Museo Arqueológico Municipal de Águilas.",
       "Dirección": "C/ Conde de Aranda, 5",
       "C.P.": "30880",
@@ -724,7 +724,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00004620013_g.jpg"
     },
     {
-      "Código": "51",
+      "id": "51",
       "Nombre": "Museo Arqueológico Municipal de Cartagena",
       "Dirección": "C/ Ramón y Cajal, 45",
       "C.P.": "30205",
@@ -747,7 +747,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-51-5p_g.jpg"
     },
     {
-      "Código": "30",
+      "id": "30",
       "Nombre": "Museo Arqueológico Municipal de Cehegín",
       "Dirección": "Plaza del Castillo, s/n",
       "C.P.": "30430",
@@ -771,7 +771,7 @@
       "Foto 8": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001620014_g.jpg"
     },
     {
-      "Código": "15",
+      "id": "15",
       "Nombre": "Museo Arqueológico Municipal Jerónimo Molina",
       "Dirección": "Pza. de Arriba, s/n. Antiguo Palacio del Concejo.",
       "C.P.": "30520",
@@ -794,7 +794,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000120024_g.jpg"
     },
     {
-      "Código": "26",
+      "id": "26",
       "Nombre": "Museo Arqueológico Municipal la Soledad",
       "Dirección": "Cuesta del Castillo, s/n. Iglesia de la Soledad",
       "C.P.": "30400",
@@ -814,7 +814,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-26-5_g.jpg"
     },
     {
-      "Código": "140",
+      "id": "140",
       "Nombre": "MUSEO CARRILERO",
       "Dirección": "Pza. José Carrilero, s/n",
       "C.P.": "30400",
@@ -834,7 +834,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-140-2_g.jpg"
     },
     {
-      "Código": "5447",
+      "id": "5447",
       "Nombre": "Museo Ciudad de Mula",
       "Dirección": "C/ Doña Elvira, 4",
       "C.P.": "30170",
@@ -854,7 +854,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5447-2p_g.jpg"
     },
     {
-      "Código": "5282",
+      "id": "5282",
       "Nombre": "Museo Crux Caravacensis",
       "Dirección": "C/ Mayor, 18 Bajo",
       "C.P.": "30400",
@@ -870,7 +870,7 @@
       "Descripción": "<p>Un recorrido por la historia de la Cruz de Caravaca desde los siglos XVI al XIX en Alemania, Austria, Polonia, Francia, Rep&uacute,blica Checa, Italia y Pa&iacute,ses Bajos. Peque&ntilde,as reproducciones que se muestran en la exposici&oacute,n llegaron a estos pa&iacute,ses con las &Oacute,rdenes Religiosas o portadas por peregrinos que viajaban a Caravaca atra&iacute,dos por la fama milagrosa de la Cruz. Tradici&oacute,n, cultura y religi&oacute,n en un espacio singular donde hoy se muestran en las paredes de piedra, la imborrable huella de la Cruz de Caravaca por el mundo.</p>"
     },
     {
-      "Código": "6119",
+      "id": "6119",
       "Nombre": "Museo de Archena",
       "Dirección": "Avenida del Río Segura",
       "C.P.": "30600",
@@ -893,7 +893,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-6119-4p_g.JPG"
     },
     {
-      "Código": "13",
+      "id": "13",
       "Nombre": "Museo de Arte de San Miguel Arcángel",
       "Dirección": "C/ del Chorrador. Junto Iglesia San Miguel",
       "C.P.": "30170",
@@ -914,7 +914,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-4_g.JPG"
     },
     {
-      "Código": "40",
+      "id": "40",
       "Nombre": "Museo de Arte Ibérico El Cigarralejo",
       "Dirección": "C/ Marqués, 1",
       "C.P.": "30170",
@@ -936,7 +936,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-40-3p_g.jpg"
     },
     {
-      "Código": "5183",
+      "id": "5183",
       "Nombre": "MUSEO DE BELENES DEL MUNDO",
       "Dirección": "Calle Cánovas Varona, 1",
       "C.P.": "30611",
@@ -961,7 +961,7 @@
       "Foto 9": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/MUSEOS_1_5183_5_g.jpg"
     },
     {
-      "Código": "46",
+      "id": "46",
       "Nombre": "Museo de Bellas Artes de Murcia",
       "Dirección": "C/ Obispo Frutos, 12",
       "C.P.": "30003",
@@ -982,7 +982,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00003020014_g.jpg"
     },
     {
-      "Código": "87",
+      "id": "87",
       "Nombre": "Museo de bordados y esculturas 'Nicolás Salzillo il maestro'",
       "Dirección": "C/ Nogalte, 43",
       "C.P.": "30800",
@@ -1004,7 +1004,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002620033_g.jpg"
     },
     {
-      "Código": "1",
+      "id": "1",
       "Nombre": "Museo de Carmen Conde y Antonio Oliver",
       "Dirección": "Centro Cultural Ramón Alonso Luzzy. C/ Jacinto Benavente, 7",
       "C.P.": "30203",
@@ -1026,7 +1026,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/sestar_g.jpg"
     },
     {
-      "Código": "47",
+      "id": "47",
       "Nombre": "Museo de Historia Local de San Javier",
       "Dirección": "Ctra. a Cartagena, s/n",
       "C.P.": "30730",
@@ -1047,7 +1047,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/sjaviartesania_g.jpg"
     },
     {
-      "Código": "55",
+      "id": "55",
       "Nombre": "Museo de la Archicofradía de la Sangre",
       "Dirección": "Calle Sacerdotes Hermanos Cerón, 25, ",
       "C.P.": "30002",
@@ -1071,7 +1071,7 @@
       "Foto 8": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00004520017_g.jpg"
     },
     {
-      "Código": "41",
+      "id": "41",
       "Nombre": "Museo de la Catedral de Murcia",
       "Dirección": "Plaza Cardenal Belluga",
       "C.P.": "30001",
@@ -1097,7 +1097,7 @@
       "Foto 10": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002720015_g.jpg"
     },
     {
-      "Código": "52",
+      "id": "52",
       "Nombre": "Museo de la Ciencia y el Agua",
       "Dirección": "Plaza de la Ciencia, 1",
       "C.P.": "30002",
@@ -1116,7 +1116,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-52-2p_g.jpg"
     },
     {
-      "Código": "11",
+      "id": "11",
       "Nombre": "Museo de la Ciudad",
       "Dirección": "Plaza de las Agustinas, 7",
       "C.P.": "30005",
@@ -1136,7 +1136,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/anfora_g.jpg"
     },
     {
-      "Código": "81",
+      "id": "81",
       "Nombre": "Museo de la Cofradía de la Oración del Huerto y Santo Sepulcro",
       "Dirección": "C/ Cartas, s/n",
       "C.P.": "30530",
@@ -1155,7 +1155,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002020032_g.jpg"
     },
     {
-      "Código": "16",
+      "id": "16",
       "Nombre": "Museo de la Fiesta",
       "Dirección": "C/ Las Monjas, 19",
       "C.P.": "30400",
@@ -1174,7 +1174,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-16-6_g.jpg"
     },
     {
-      "Código": "108",
+      "id": "108",
       "Nombre": "Museo de la Música Étnica de Barranda",
       "Dirección": "C/ Pedrera, s/n",
       "C.P.": "30412",
@@ -1194,7 +1194,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000420063_g.jpg"
     },
     {
-      "Código": "94",
+      "id": "94",
       "Nombre": "Museo de la Policia Local",
       "Dirección": "Pza. de la Constitución",
       "C.P.": "30850",
@@ -1216,7 +1216,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/policialocal3_g.jpg"
     },
     {
-      "Código": "83",
+      "id": "83",
       "Nombre": "Museo de la Real Cofradía de Nuestra Señora de Gracia y Esperanza",
       "Dirección": "C/ Diego Tortosa, s/n",
       "C.P.": "30530",
@@ -1234,7 +1234,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002120031_g.jpg"
     },
     {
-      "Código": "5360",
+      "id": "5360",
       "Nombre": "MUSEO DE LA TORRE DE SANTIAGO",
       "Dirección": "Plaza Consitución, s/n",
       "C.P.": "30039",
@@ -1253,7 +1253,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5360-2_g.jpg"
     },
     {
-      "Código": "105",
+      "id": "105",
       "Nombre": "Museo de la Universidad de Murcia",
       "Dirección": "C/ Cartagena s/n, Pabellón 4, Antiguo Cuartel de Artillería",
       "C.P.": "30002",
@@ -1276,7 +1276,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000420054_g.jpg"
     },
     {
-      "Código": "25",
+      "id": "25",
       "Nombre": "Museo de la Vera Cruz",
       "Dirección": "Castillo, Santuario de la Vera Cruz",
       "C.P.": "30400",
@@ -1298,7 +1298,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-25-3_g.jpg"
     },
     {
-      "Código": "4695",
+      "id": "4695",
       "Nombre": "Museo de Moros y Cristianos de Murcia",
       "Dirección": "C/ Cartagena s/n (1º planta del Pabellón II, Antiguo Cuartel de Artillería)",
       "C.P.": "30002",
@@ -1319,7 +1319,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/MUSEOS_1_4695_3_g.jpg"
     },
     {
-      "Código": "90",
+      "id": "90",
       "Nombre": "Museo de Réplicas de El Greco - ReGreco",
       "Dirección": "C/ España, nº 37. Palacio de los Ortega. Casa Municipal de Cultura",
       "C.P.": "30510",
@@ -1337,7 +1337,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-90-1p_g.jpg"
     },
     {
-      "Código": "102",
+      "id": "102",
       "Nombre": "Museo de Santa Clara",
       "Dirección": "Avenida Alfonso X, 1",
       "C.P.": "30001",
@@ -1357,7 +1357,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000120053_g.jpg"
     },
     {
-      "Código": "85",
+      "id": "85",
       "Nombre": "Museo de Semana Santa",
       "Dirección": "C/ San Antón, s/n",
       "C.P.": "30520",
@@ -1379,7 +1379,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/dolorosa_g.jpg"
     },
     {
-      "Código": "78",
+      "id": "78",
       "Nombre": "Museo de Semana Santa de Yecla",
       "Dirección": "Plaza de la Asunción, s/n. Iglesia Vieja o del Salvador",
       "C.P.": "30510",
@@ -1400,7 +1400,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/museosemanasanta3_g.jpg"
     },
     {
-      "Código": "33",
+      "id": "33",
       "Nombre": "Museo de Siyasa",
       "Dirección": "C/ San Sebastián, 17",
       "C.P.": "30530",
@@ -1420,7 +1420,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001720012_g.jpg"
     },
     {
-      "Código": "74",
+      "id": "74",
       "Nombre": "Museo del Arroz",
       "Dirección": "C/Mayor, 14",
       "C.P.": "30420",
@@ -1438,7 +1438,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/52008i1_g.jpg"
     },
     {
-      "Código": "48",
+      "id": "48",
       "Nombre": "Museo del Belén de San Javier",
       "Dirección": "Ctra. Cartagena s/n",
       "C.P.": "30730",
@@ -1459,7 +1459,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/belen3_g.jpg"
     },
     {
-      "Código": "5594",
+      "id": "5594",
       "Nombre": "Museo del Belén. Ermita de San Roque",
       "Dirección": "Calle San Roque",
       "C.P.": "30800",
@@ -1483,7 +1483,7 @@
       "Foto 8": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5594-5p_g.JPG"
     },
     {
-      "Código": "84",
+      "id": "84",
       "Nombre": "Museo del Cante de las Minas",
       "Dirección": "Casa del Piñón, en la C/ Mayor, 55",
       "C.P.": "30360",
@@ -1505,7 +1505,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-84-3p_g.JPG"
     },
     {
-      "Código": "9286",
+      "id": "9286",
       "Nombre": "Museo del Carnaval",
       "Dirección": "Plaza de Asunción Balaguer, s/n",
       "C.P.": "30880",
@@ -1526,7 +1526,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-9286-5p_g.jpg"
     },
     {
-      "Código": "37",
+      "id": "37",
       "Nombre": "Museo del Convento de Santa Ana del Monte de Jumilla",
       "Dirección": "Convento de Santa Ana del Monte",
       "C.P.": "30520",
@@ -1548,7 +1548,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/entradamus2_g.jpg"
     },
     {
-      "Código": "92",
+      "id": "92",
       "Nombre": "Museo del Esparto",
       "Dirección": "El Garrobillo - Cabezo de la Cruz",
       "C.P.": "30889",
@@ -1566,7 +1566,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/aguilasespartofachada_g.jpg"
     },
     {
-      "Código": "6994",
+      "id": "6994",
       "Nombre": "Museo del Esparto y Antiguedades",
       "Dirección": "Palacete de VillaRías",
       "C.P.": "30600",
@@ -1586,7 +1586,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-6994-3p_g.jpg"
     },
     {
-      "Código": "88",
+      "id": "88",
       "Nombre": "Museo del Ferrocarril",
       "Dirección": "Pza. Industria (Estación Renfe Murcia del Carmen)",
       "C.P.": "30002",
@@ -1612,7 +1612,7 @@
       "Foto 10": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/ferrocarri-ferroprucalef_g.jpg"
     },
     {
-      "Código": "6",
+      "id": "6",
       "Nombre": "Museo del Ferrocarril",
       "Dirección": "Estación de RENFE de Águilas",
       "C.P.": "30880",
@@ -1635,7 +1635,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/ag-muse-maqueta3_g.jpg"
     },
     {
-      "Código": "7",
+      "id": "7",
       "Nombre": "Museo del Fútbol Aguileño",
       "Dirección": "Muñoz Calero, 22",
       "C.P.": "30880",
@@ -1654,7 +1654,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/32001i2_g.jpg"
     },
     {
-      "Código": "6105",
+      "id": "6105",
       "Nombre": "MUSEO DEL TAMBOR",
       "Dirección": "Plaza de la Iglesia, bajo",
       "C.P.": "30440",
@@ -1677,7 +1677,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-6105-4p_g.jpg"
     },
     {
-      "Código": "141",
+      "id": "141",
       "Nombre": "Museo del Teatro Romano",
       "Dirección": "Pza. del Ayuntamiento, 9",
       "C.P.": "30202",
@@ -1703,7 +1703,7 @@
       "Foto 10": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-141-3p_g.jpg"
     },
     {
-      "Código": "79",
+      "id": "79",
       "Nombre": "Museo del Vino de Bullas",
       "Dirección": "Avda. de Murcia, 75",
       "C.P.": "30180",
@@ -1731,7 +1731,7 @@
       "Foto 12": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-79-6p_g.jpg"
     },
     {
-      "Código": "93",
+      "id": "93",
       "Nombre": "Museo Etnográfico Carlos Soriano",
       "Dirección": "Pza. de la Ermita, s/n",
       "C.P.": "30509",
@@ -1752,7 +1752,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/MUSEOS_1_93_3_g.jpg"
     },
     {
-      "Código": "59",
+      "id": "59",
       "Nombre": "Museo Etnológico de la Huerta de Alcantarilla",
       "Dirección": "Avda. Príncipe, s/n",
       "C.P.": "30820",
@@ -1774,7 +1774,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-4p_g.jpg"
     },
     {
-      "Código": "100",
+      "id": "100",
       "Nombre": "Museo Etnológico de Roche",
       "Dirección": "Avda. M. Cano Vicedo, s/n",
       "C.P.": "30369",
@@ -1791,7 +1791,7 @@
       "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/launionetnologico_g.jpg"
     },
     {
-      "Código": "8743",
+      "id": "8743",
       "Nombre": "Museo Fundación Boyer Tresaco",
       "Dirección": "C/Gran Vía, Km. 0,5 - Urb. Los Cubanitos",
       "C.P.": "30380",
@@ -1813,7 +1813,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8743-1p_g.jpg"
     },
     {
-      "Código": "43",
+      "id": "43",
       "Nombre": "Museo Hidráulico Molinos del Río",
       "Dirección": "Calle Molinos, 1",
       "C.P.": "30002",
@@ -1833,7 +1833,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-43-2_g.jpg"
     },
     {
-      "Código": "4800",
+      "id": "4800",
       "Nombre": "MUSEO HORNO DEL CONCEJO Y CASA DEL FOLCLORE",
       "Dirección": "C/ Cid Campeador, 2 - Esquina calle del Castillo",
       "C.P.": "30500",
@@ -1854,7 +1854,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-4800-3_g.jpg"
     },
     {
-      "Código": "24",
+      "id": "24",
       "Nombre": "Museo Mariano Virgen del Castillo",
       "Dirección": "Explanada del Santuario del Castillo.",
       "C.P.": "30510",
@@ -1874,7 +1874,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001120033_g.jpg"
     },
     {
-      "Código": "56",
+      "id": "56",
       "Nombre": "Museo Militar. Sección Delegada del Museo Militar Regional de Cartagena",
       "Dirección": "Pza. Puerta de la Serreta, s/n",
       "C.P.": "30201",
@@ -1896,7 +1896,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-56-3p_g.jpg"
     },
     {
-      "Código": "36",
+      "id": "36",
       "Nombre": "Museo Minero",
       "Dirección": "C/ Mayor, 55, Edificio del Liceo de Obreros",
       "C.P.": "30360",
@@ -1918,7 +1918,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-36-15p_g.JPG"
     },
     {
-      "Código": "10",
+      "id": "10",
       "Nombre": "Museo Molino de Teodoro",
       "Dirección": "Paraje del Estrecho. A 1 km de Cieza",
       "C.P.": "30530",
@@ -1939,7 +1939,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00006020013_g.jpg"
     },
     {
-      "Código": "35",
+      "id": "35",
       "Nombre": "Museo Municipal Jeromino Molina seccion de Etnografia y Ciencias de la Naturaleza",
       "Dirección": "Pza. de la Constitución, 3",
       "C.P.": "30520",
@@ -1962,7 +1962,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-35-5_g.JPG"
     },
     {
-      "Código": "128",
+      "id": "128",
       "Nombre": "Museo Municipal Palacio Barón de Benifayó",
       "Dirección": "Avda. de Orihuela, s/n",
       "C.P.": "30740",
@@ -1982,7 +1982,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-128-2p_g.jpg"
     },
     {
-      "Código": "32",
+      "id": "32",
       "Nombre": "Museo Naval de Cartagena",
       "Dirección": "Paseo de Alfonso XII, frente Dársena Botes. Bajos antiguo CIM ",
       "C.P.": "30205",
@@ -2004,7 +2004,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-32-3p_g.jpg"
     },
     {
-      "Código": "142",
+      "id": "142",
       "Nombre": "Museo Parroquial de San Javier",
       "Dirección": "PLAZA DE ESPAÑA",
       "C.P.": "30730",
@@ -2024,7 +2024,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002420102_g.jpg"
     },
     {
-      "Código": "4805",
+      "id": "4805",
       "Nombre": "Museo Pasos e Imágenes",
       "Dirección": "C/ Fuente Blanca, 18",
       "C.P.": "30840",
@@ -2043,7 +2043,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-4805-3p_g.jpg"
     },
     {
-      "Código": "44",
+      "id": "44",
       "Nombre": "Museo Ramón Gaya",
       "Dirección": "Plaza Santa Catalina, s/n",
       "C.P.": "30004",
@@ -2061,7 +2061,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-44-1_g.jpg"
     },
     {
-      "Código": "61",
+      "id": "61",
       "Nombre": "Museo Regional de Arte Moderno MURAM - Palacio Aguirre",
       "Dirección": "Pza. de la Merced, 15-16",
       "C.P.": "30202",
@@ -2083,7 +2083,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-61-6p_g.jpg"
     },
     {
-      "Código": "23",
+      "id": "23",
       "Nombre": "Museo Regional del Bolillo",
       "Dirección": "C/ Alberto Colao,19",
       "C.P.": "30593",
@@ -2100,7 +2100,7 @@
       "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-23-1p_g.jpg"
     },
     {
-      "Código": "45",
+      "id": "45",
       "Nombre": "Museo Salzillo",
       "Dirección": "Plaza. San Agustín, 3",
       "C.P.": "30005",
@@ -2119,7 +2119,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-45-2p_g.jpg"
     },
     {
-      "Código": "7427",
+      "id": "7427",
       "Nombre": "Museo Sardinero",
       "Dirección": "C/ Cartagena s/n (Antiguo Cuartel de Artillería)",
       "C.P.": "30002",
@@ -2137,7 +2137,7 @@
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-7427-2p_g.jpg"
     },
     {
-      "Código": "21",
+      "id": "21",
       "Nombre": "Museo Siete Chimeneas",
       "Dirección": "C/ D. Eloy, s/ n",
       "C.P.": "30562",
@@ -2158,7 +2158,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000720033_g.jpg"
     },
     {
-      "Código": "49",
+      "id": "49",
       "Nombre": "Museo Taurino",
       "Dirección": "C/ Francisco Rabal, 2",
       "C.P.": "30009",
@@ -2178,7 +2178,7 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/taurino-pande_g.jpg"
     },
     {
-      "Código": "97",
+      "id": "97",
       "Nombre": "Museo Taurino de Yecla",
       "Dirección": "C/ Tejeras, nº 2. Plaza de toros.",
       "C.P.": "30510",
@@ -2197,7 +2197,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/taurinoyecla2_g.jpg"
     },
     {
-      "Código": "2",
+      "id": "2",
       "Nombre": "Pequeño Museo del Esparto",
       "Dirección": "C/ de Pablo Iglesias, 53",
       "C.P.": "30530",
@@ -2219,7 +2219,7 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/000054200111_g.jpg"
     },
     {
-      "Código": "131",
+      "id": "131",
       "Nombre": "Refugio Museo de la Guerra Civil",
       "Dirección": "C/ Gisbert, s/n",
       "C.P.": "30202",
@@ -2242,7 +2242,7 @@
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-131-4p_g.jpg"
     },
     {
-      "Código": "89",
+      "id": "89",
       "Nombre": "Sala Museo de Grafología",
       "Dirección": "Casa de los Duendes.",
       "C.P.": "30890",
@@ -2261,7 +2261,7 @@
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-89-2p_g.jpg"
     },
     {
-      "Código": "107",
+      "id": "107",
       "Nombre": "Sala Museo Jose Matrán",
       "Dirección": "Casa de la Cultura. Pza. de Asunción Balaguer, s/n",
       "C.P.": "30880",
@@ -2282,7 +2282,7 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000220063_g.jpg"
     },
     {
-      "Código": "106",
+      "id": "106",
       "Nombre": "Termas Romanas de Águilas",
       "Dirección": "C/ Canalejas (esquina Quintana)",
       "C.P.": "30880",

@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 function Header() {
   return (
     <div
@@ -24,7 +24,7 @@ function Header() {
           <Link to="/">Home</Link>
         </li>
         <li className="text-xl font-bold">
-          <Link to="/Museos">Museos</Link>
+          <Link to="/museos">Museos</Link>
         </li>
       </ul>
     </div>

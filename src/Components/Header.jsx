@@ -20,10 +20,10 @@ function Header() {
 
       <p className="flex flex-col text-5xl ">MUSEOS DE MURCIA</p>
       <ul className="flex flex-row gap-20 ">
-        <li className="text-xl font-bold bg-gradient-to-r from-yellow-300 via-sky-300 to-lime-300 inline-block text-transparent bg-clip-text">
+        <li className="text-xl font-bold">
           <Link to="/">Home</Link>
         </li>
-        <li className="text-xl font-bold bg-gradient-to-r from-yellow-300 via-sky-300 to-lime-300 inline-block text-transparent bg-clip-text ">
+        <li className="text-xl font-bold">
           <Link to="/Museos">Museos</Link>
         </li>
       </ul>

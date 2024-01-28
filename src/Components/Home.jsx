@@ -37,7 +37,6 @@ function Home() {
           <img className=" w-1/5 h-5/6 rounded-2xl " src={puesta} />
         </div>
       </div>
-      xxxxxxxxxx
     </div>
   );
 }

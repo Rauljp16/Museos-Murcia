@@ -5,6 +5,7 @@ import axios from "axios";
 import { useEffect } from "react";
 import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 import Header from "./Components/Header";
+import Museo from "./Components/Museo";
 
 function App() {
   const [museos, setMuseos] = useState([]);
@@ -28,7 +29,9 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/Museos" element={<Museos museos={museos} />} />
+        <Route path="/museos" element={<Museos museos={museos} />}>
+          <Route path="museos/museo" element={<Museo museos={museos} />} />
+        </Route>
       </Routes>
     </>
   );

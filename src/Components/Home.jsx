@@ -5,37 +5,42 @@ import { Link } from "react-router-dom";
 
 function Home() {
   return (
-    <div className=" h-screen flex flex-row  items-center bg-black">
+    <div
+      className=" w-full h-screen pt-16 pb-12 flex flex-col
+     items-center bg-black"
+    >
+      <div className=" h-1/2 flex flex-row gap-3 justify-center items-center">
+        <img className=" w-2/5 h-5/6 rounded-2xl " src={catedral} />
+        <img className=" w-1/5 h-5/6 rounded-2xl " src={clock} />
+        <img className=" w-1/5 h-5/6 rounded-2xl " src={puesta} />
+      </div>
+
       <div
-        className="  w-1/2 h-4/5 flex flex-col justify-center
-       items-center gap-16
+        className=" w-full h-1/2 flex flex-col 
+       items-center gap-6
        text-white "
       >
-        <h1>titulo</h1>
-        <p>parrafo para pequeña descripcion</p>
+        <p className=" text-3xl ">MUSEOS DE MURCIA</p>
+        <p className="flex items-center m-3">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus minima
+          fugiat amet perferendis illo, incidunt praesentium optio magnam dolore
+          in commodi dolorum veniam beatae, aperiam repellat.
+        </p>
         <Link to="/museos">
           <button
             className=" inline-flex items-center justify-center
-           p-0.5 mb-2 me-2 overflow-hidden text-xl font-medium
+           p-0.5   
             hover:text-zinc-300 rounded-lg group bg-gradient-to-r from-yellow-300
              via-sky-300 to-lime-300"
           >
             <span
-              className="relative px-20 py-2 transition-all ease-in duration-75 bg-black
+              className="relative  transition-all ease-in duration-75 bg-black
               rounded-md group-hover:bg-opacity-0 "
             >
               Ver Museos
             </span>
           </button>
         </Link>
-        <p className=" text-4xl pt-10">Museos de Murcia</p>
-      </div>
-      <div className="flex  w-1/2 h-4/5">
-        <div className="  flex flex-row gap-5 justify-start items-center">
-          <img className=" w-2/5 h-5/6 rounded-2xl " src={catedral} />
-          <img className=" w-1/5 h-5/6 rounded-2xl " src={clock} />
-          <img className=" w-1/5 h-5/6 rounded-2xl " src={puesta} />
-        </div>
       </div>
     </div>
   );

@@ -6,6 +6,7 @@ import { useEffect } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./Components/Header";
 import Museo from "./Components/Museo";
+import Footer from "./Components/footer";
 
 function App() {
   const [museos, setMuseos] = useState([]);
@@ -29,10 +30,10 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/museos" element={<Museos museos={museos} />}>
-          <Route path="museo/:id" element={<Museo museos={museos} />} />
-        </Route>
+        <Route path="museos" element={<Museos museos={museos} />} />
+        <Route path="museos/:id" element={<Museo museos={museos} />} />
       </Routes>
+      <Footer />
     </>
   );
 }

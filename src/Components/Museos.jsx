@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 function Museos(museos) {
   return (
     <div
-      className=" pt-36 flex flex-row flex-wrap text-white
-     gap-16 justify-center px-20 bg-black"
+      className="  flex flex-row flex-wrap text-white
+     gap-16 justify-center  bg-black"
     >
       {museos.museos.map((museo) => (
         <Link

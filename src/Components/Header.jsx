@@ -2,11 +2,11 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div
-      className=" fixed w-full h-16 flex  items-center  
+      className=" h-18 flex  items-center
        bg-zinc-900 text-white"
     >
       <svg
-        className="w-16 h-auto  ml-2 mr-2"
+        className="w-16 h-auto  m-4"
         aria-hidden="true"
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
@@ -22,7 +22,7 @@ function Header() {
         />
       </svg>
 
-      <p className=" text-xl w-full pl-8">MUSEOS DE MURCIA</p>
+      <p className=" text-xl w-full pl-4">MUSEOS DE MURCIA</p>
       <ul className="hidden md:flex  flex-row gap-20 ">
         <li className="  text-xl font-bold">
           <Link to="/">Home</Link>

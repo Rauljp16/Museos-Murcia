@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 function Footer() {
   return (
     <ul
-      className=" md:hidden fixed bg-zinc-900 text-white bottom-0
-     flex items-center justify-around h-12 w-full"
+      className="fixed w-full bottom-0 md:hidden  bg-zinc-900 text-white
+     flex items-center justify-around h-14 "
     >
       <li className=" font-bold">
         <Link to="/">Home</Link>

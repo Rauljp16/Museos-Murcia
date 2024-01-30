@@ -3,7 +3,7 @@ import Museos from "./Components/Museos";
 import Home from "./Components/Home";
 import axios from "axios";
 import { useEffect } from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Header from "./Components/Header";
 import Museo from "./Components/Museo";
 import Footer from "./Components/footer";

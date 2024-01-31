@@ -2,31 +2,20 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div
-      className=" h-18 flex  items-center
-       bg-zinc-900 text-white"
+      className="static flex h-28 w-full items-center bg-zinc-900
+       text-white"
     >
-      <svg
-        className="w-16 h-auto  m-4"
-        aria-hidden="true"
-        xmlns="http://www.w3.org/2000/svg"
-        fill="none"
-        viewBox="0 0 24 24"
-      >
-        <path
-          stroke="currentColor"
-          d="M3 21h18M4 18h16M6
-           10v8m4-8v8m4-8v8m4-8v8M4
-            9.5v-1c0-.3.2-.6.5-.8l7-4.5a1
-             1 0 0 1 1 0l7 4.5c.3.2.5.5.5.8v1c0
-              .3-.2.5-.5.5h-15a.5.5 0 0 1-.5-.5Z"
-        />
-      </svg>
+      <div className="flex w-full flex-col items-center text-4xl">
+        <Link to="/">
+          <p className="relative pr-28 ">MUSEOS</p>
+        </Link>
+        <Link to="/">
+          {" "}
+          <p className="relative pl-28">MURCIA</p>
+        </Link>
+      </div>
 
-      <p className=" text-xl w-full pl-4">MUSEOS DE MURCIA</p>
-      <ul className="hidden md:flex  flex-row gap-20 ">
-        <li className="  text-xl font-bold">
-          <Link to="/">Home</Link>
-        </li>
+      <ul className="hidden flex-row  gap-20 md:flex ">
         <li className=" text-xl font-bold">
           <Link to="/museos">Museos</Link>
         </li>

@@ -3,21 +3,29 @@ import { Link } from "react-router-dom";
 function Museos(museos) {
   return (
     <div
-      className="  flex flex-row flex-wrap text-white
-     gap-16 justify-center  bg-black"
+      className="  flex flex-row flex-wrap justify-center
+     gap-8 bg-zinc-900 p-8  text-white"
     >
       {museos.museos.map((museo) => (
         <Link
           key={museo.id}
           to={`${museo.id}`}
-          className="flex flex-col  p-2 w-40 h-40 items-center 
-        bg-gray-800/50
-        gap-5 rounded-lg "
+          className="relative flex h-40  w-40 flex-col items-center 
+        rounded-2xl
+        bg-zinc-800/20 p-2 "
         >
-          <p className="text-xl uppercase font-mono font-bold">
-            {museo.Nombre}
-          </p>
-          <img className="h-screen w-screen" src={museo.Foto} />
+          <div className="flex items-center justify-center">
+            <img
+              className=" h-36 w-36 rounded-2xl bg-zinc-900 opacity-80 "
+              src={museo.Foto}
+            />
+            <p
+              className=" uppercas absolute max-h-24
+             max-w-24 text-xl font-bold "
+            >
+              {museo.Nombre}
+            </p>
+          </div>
         </Link>
       ))}
     </div>

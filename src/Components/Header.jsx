@@ -5,13 +5,13 @@ function Header() {
       className="static flex h-28 w-full items-center bg-zinc-900
        text-white"
     >
-      <div className="flex w-full flex-col items-center text-4xl">
+      <div className="font-caveat flex w-full flex-col items-center text-5xl tracking-wider">
         <Link to="/">
-          <p className="relative pr-28 ">MUSEOS</p>
+          <p className="relative pr-20 ">MUSEOS</p>
         </Link>
         <Link to="/">
           {" "}
-          <p className="relative pl-28">MURCIA</p>
+          <p className="relative pl-20">MURCIA</p>
         </Link>
       </div>
 

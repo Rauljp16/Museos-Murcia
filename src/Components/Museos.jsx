@@ -11,12 +11,12 @@ function Museos(museos) {
           key={museo.id}
           to={`${museo.id}`}
           className="relative flex h-40  w-40 flex-col items-center 
-        rounded-2xl
+        rounded
         bg-zinc-800/20 p-2 "
         >
           <div className="flex items-center justify-center">
             <img
-              className=" h-36 w-36 rounded-2xl bg-zinc-900 opacity-80 "
+              className=" h-36 w-36 rounded bg-zinc-900 opacity-80 "
               src={museo.Foto}
             />
             <p

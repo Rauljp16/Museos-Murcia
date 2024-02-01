@@ -1,5 +1,5 @@
-import catedral from "../img/catedral de murcia.jpg";
-import clock from "../img/clock.jpg";
+import IA from "../img/IAmuseo.jpg";
+import IA2 from "../img/IAcatedral.jpg";
 import puesta from "../img/puesta.jpg";
 import { Link } from "react-router-dom";
 
@@ -10,9 +10,9 @@ function Home() {
      items-center bg-zinc-900"
     >
       <div className=" flex h-72 w-full flex-row items-center justify-around pl-6 pr-6">
-        <img className=" h-56 w-2/5 rounded-2xl " src={catedral} />
-        <img className=" h-56 w-1/5 rounded-2xl " src={clock} />
-        <img className=" h-56 w-1/5 rounded-2xl " src={puesta} />
+        <img className=" h-56 w-2/5 rounded-lg " src={IA} />
+        <img className=" h-56 w-1/5 rounded-lg " src={IA2} />
+        <img className=" h-56 w-1/5 rounded-lg " src={puesta} />
       </div>
 
       <div
@@ -20,8 +20,8 @@ function Home() {
        pr-6 
        text-white "
       >
-        <p className=" text-2xl ">MUSEOS DE MURCIA</p>
-        <p className="m-3 flex text-center">
+        <p className=" text-2xl ">CHATOS MURCIANOS</p>
+        <p className="font- font-caveat m-3 flex text-center text-lg">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus minima
           fugiat amet perferendis illo, incidunt praesentium optio magnam dolore
           in commodi dolorum veniam beatae, aperiam repellat.
@@ -30,12 +30,12 @@ function Home() {
           <button
             className=" group m-4 inline-flex
            items-center justify-center
-            rounded-lg bg-gradient-to-r from-yellow-300 via-sky-300 to-lime-300
-             p-0.5 hover:text-zinc-300"
+            rounded-lg bg-gradient-to-r from-yellow-300 via-sky-300 to-lime-300 p-0.5
+              hover:text-zinc-900"
           >
             <span
-              className="relative rounded-md bg-black px-6 transition-all
-              duration-75 ease-in group-hover:bg-opacity-0"
+              className="relative rounded-md bg-zinc-900 px-4 py-2 
+               transition-all duration-75 ease-in hover:text-xl group-hover:bg-opacity-0"
             >
               Ver Museos
             </span>

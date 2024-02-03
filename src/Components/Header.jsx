@@ -2,10 +2,10 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div
-      className="static flex h-28 w-full items-center bg-zinc-900
+      className="fixed top-0 z-20 flex h-28 w-full items-center bg-zinc-800
        text-white"
     >
-      <div className="font-caveat flex w-full flex-col items-center text-5xl tracking-wider">
+      <div className="flex w-full flex-col items-center font-caveat text-5xl tracking-wider">
         <Link to="/">
           <p className="relative pr-20 ">MUSEOS</p>
         </Link>

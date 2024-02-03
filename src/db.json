@@ -40,7 +40,7 @@
     },
     {
       "id": "132",
-      "Nombre": "ARQUA Museo Nacional de Arqueología Subacuática",
+      "Nombre": "ARQUA ",
       "Dirección": "Paseo Alfonso XII, 22",
       "C.P.": "30201",
       "Municipio": "Cartagena",
@@ -64,7 +64,7 @@
     },
     {
       "id": "110",
-      "Nombre": "Casa - Museo Don Pepe Marsilla, Bullas 1900",
+      "Nombre": "Pepe Marsilla",
       "Dirección": "C/ Rosario, 1",
       "C.P.": "30180",
       "Municipio": "Bullas",
@@ -93,7 +93,7 @@
     },
     {
       "id": "95",
-      "Nombre": "Casa Museo Antonio Campillo",
+      "Nombre": "Antonio Campillo",
       "Dirección": "C/ Clavijo, 1",
       "C.P.": "30562",
       "Municipio": "Ceutí",
@@ -113,7 +113,7 @@
     },
     {
       "id": "91",
-      "Nombre": "Casa Museo de la Semana Santa",
+      "Nombre": "Semana Santa",
       "Dirección": "C/ Cánovas del Castillo, s/n",
       "C.P.": "30530",
       "Municipio": "Cieza",
@@ -131,7 +131,7 @@
     },
     {
       "id": "5768",
-      "Nombre": "Casa Museo Miguel Hernández",
+      "Nombre": "Miguel Hernández",
       "Dirección": "C/ Miguel Hernández, 73",
       "C.P.": "03300",
       "Municipio": "Orihuela",
@@ -150,7 +150,7 @@
     },
     {
       "id": "4799",
-      "Nombre": "Casa-Museo de los Caballos del Vino",
+      "Nombre": "Museo de los Caballos del Vino",
       "Dirección": "C/ Gregorio Javier, 21",
       "C.P.": "30400",
       "Municipio": "Caravaca de la Cruz",
@@ -170,7 +170,7 @@
     },
     {
       "id": "4832",
-      "Nombre": "Casa-Museo del Belén",
+      "Nombre": "Museo del Belén",
       "Dirección": "Calle Olivo esquina con Travesía Torre 2, s/n,",
       "C.P.": "30006",
       "Municipio": "Murcia",
@@ -187,7 +187,7 @@
     },
     {
       "id": "71",
-      "Nombre": "Centro de Documentación y Exposición de Cabo de Palos",
+      "Nombre": "Documentación y Exposición de Cabo de Palos",
       "Dirección": "Cabo de Palos. Junto Iglesia",
       "C.P.": "70287",
       "Municipio": "La Manga",

@@ -150,7 +150,7 @@
     },
     {
       "id": "4799",
-      "Nombre": "Museo de los Caballos del Vino",
+      "Nombre": "Caballos del Vino",
       "Dirección": "C/ Gregorio Javier, 21",
       "C.P.": "30400",
       "Municipio": "Caravaca de la Cruz",
@@ -187,7 +187,7 @@
     },
     {
       "id": "71",
-      "Nombre": "Documentación y Exposición de Cabo de Palos",
+      "Nombre": "Cabo de Palos",
       "Dirección": "Cabo de Palos. Junto Iglesia",
       "C.P.": "70287",
       "Municipio": "La Manga",
@@ -204,7 +204,7 @@
     },
     {
       "id": "4784",
-      "Nombre": "CENTRO DE INTERPRETACIÓN DEL FOLKLORE",
+      "Nombre": "CENTRO DE FOLKLORE",
       "Dirección": "C/ Empredrá, 9",
       "C.P.": "30530",
       "Municipio": "Cieza",
@@ -223,7 +223,7 @@
     },
     {
       "id": "42",
-      "Nombre": "Centro Etnográfico Casa del Cura",
+      "Nombre": "Casa del Cura",
       "Dirección": "Casa del Cura",
       "C.P.": "30890",
       "Municipio": "Puerto Lumbreras",
@@ -236,31 +236,13 @@
       "Latitud": "-1.801329",
       "Longitud": "37.565643",
       "Descripción": "<br><br>Este espacio museístico se ubica en la Casa del Cura y ofrece exposiciones permanentes sobre las <b>tradiciones agrícolas y ganaderas</b> del municipio a lo largo de su historia. <br><br>El edificio que lo alberga se encuentra en la emblemática finca conocida como la <b>Casa del Cura</b>, que data del siglo XIX, la cual ha experimentado una rehabilitación integral.<br><br>Este nuevo centro también cuenta con un <b>espacio audiovisual y multimedia</b en el que se pueden visionar documentales y trabajos multimedia sobre la historia de las tradiciones locales relacionadas con la agricultura y la ganadería.<br><br> Además, el Centro muestra <b>herramientas antiguas</b>, así como enseres típicos relacionados con el sector agrícola y ganadero. <br><br>Este centro se ha construido en una edificación anexa a la Casa del Cura, donde antiguamente se guardaban los aperos de labranza. <br><br>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/MUSEOS_1_42_1_g.jpg",
+      "Foto 1": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/MUSEOS_1_42_1_g.jpg",
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-2p_g.JPG",
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-3p_g.jpg",
-      "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-7p_g.JPG",
+      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-7p_g.JPG",
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-5p_g.JPG",
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-6p_g.JPG",
       "Foto 7": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-42-4p_g.jpg"
-    },
-    {
-      "id": "145",
-      "Nombre": "CENTRO LA ALBARDA DE RITOS Y TRADICIONES DEL CAMPO DE MOLINA",
-      "Dirección": "Avd. de la Albarda, 74 - Pedanía La Albarda",
-      "C.P.": "30507",
-      "Municipio": "Molina de Segura",
-      "Pedanía": "ALBARDA",
-      "Teléfono": "Concejalía de Turismo Tlf. 968 388 Ext.522 / 523",
-      "Fax": "",
-      "Email": "",
-      "URL Real": "",
-      "URL Corta": "",
-      "Latitud": "-1.2121462",
-      "Longitud": "38.1429236",
-      "Descripción": "<p>Lo escarpado de su orograf&iacute,a, las duras condiciones clim&aacute,ticas y la emigraci&oacute,n han determinado que el Campo de Molina sufra un estancamiento demogr&aacute,fico, pese a ocupar un 63% de la superficie del t&eacute,rmino, que ha hecho que se mantengan intactos en este entorno y hasta la actualidad, usos, tradiciones y creencias m&aacute,gicas de origen secular.</p><p>PLANTA BAJA<br />Comenzamos mostrando al visitante la diversa riqueza natural y las formas de vida del Campo de Molina. A la vez se da cuenta sobre la intervenci&oacute,n del hombre en el medio y la conservaci&oacute,n de los ecosistemas. Esto facilita la interpretaci&oacute,n del Patrimonio Rural tangible e intangible, las formas de vida, usos y costumbres de sus habitantes. Lugar destacado en esta planta ocupan los ritos m&aacute,gicos y las muestras del calendario festivo y anual del la comarca. Viejas creencias ancestrales que se han conservado en el tiempo y que conforman la cosmovisi&oacute,n de sus gentes. El patrimonio inmaterial en todo su esplendor.</p><p>PRIMERA PLANTA<br />Recoge la recreaci&oacute,n de una antigua aula de escuela unitaria. Pupitres, mapas y utensilios que presentan otras formas de ense&ntilde,anza alejadas en el tiempo.</p><p>ACTIVIDADES<br />A partir del a&ntilde,o 2008 se lleva a cabo desde la Concejal&iacute,a de Turismo un programa de actividades en el museo. Van dirigidas al visitante y al grupo familiar. Es una forma de dar a conocer esta parte del municipio molinense.</p><p>Las actividades tienen lugar el primer domingo de cada mes. Se trata de talleres, narraciones de leyendas, actividades relacionadas con la agricultura, juegos tradicionales, usos tradicionales de las plantas, realizaci&oacute,n de recetas de cocina, etc.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-145-2p_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/museos_1_145_1_g.jpg"
     },
     {
       "id": "101",
@@ -283,7 +265,7 @@
     },
     {
       "id": "8673",
-      "Nombre": "CiuFRONT Museo Medieval de Lorca",
+      "Nombre": "Museo Medieval de Lorca",
       "Dirección": "Calle Mayor de Santa María",
       "C.P.": "30800",
       "Municipio": "Lorca",
@@ -345,7 +327,7 @@
     },
     {
       "id": "103",
-      "Nombre": "Fundación Casa Pintada - Museo Cristóbal Gabarrón",
+      "Nombre": "Museo Cristóbal Gabarrón",
       "Dirección": "C/ San Francisco, 14",
       "C.P.": "30170",
       "Municipio": "Mula",
@@ -358,9 +340,9 @@
       "Latitud": "-1.489411",
       "Longitud": "38.040872",
       "Descripción": "<p>La Fundaci&oacute,n Casa Pintada es un proyecto cultural surgido y consolidado gracias a la colaboraci&oacute,n de la Fundaci&oacute,n Crist&oacute,bal Gabarr&oacute,n y el Ayuntamiento de Mula. Ubicado en una de las casas blasonadas m&aacute,s destacadas de la localidad, la denominada por sus excepcionales esgrafiados Casa Pintada, muestra un amplio recorrido por la trayectoria del artista Crist&oacute,bal Gabarr&oacute,n, siendo al mismo tiempo escaparate permanente de la nueva creatividad Murciana.<br /><br />Esta realidad que ha permitido el regreso a Mula de uno de sus artistas m&aacute,s reconocidos internacionalmente pretende establecerse como baluarte y vig&iacute,a de la cultura en la regi&oacute,n, siendo al mismo tiempo un referente de las culturas que tradicionalmente han estado presentes en esta regi&oacute,n, todo ello bajo el personal prisma y humanismo del artista Crist&oacute,bal Gabarr&oacute,n, ejemplo del necesario conocimiento de otras realidades y culturas.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-1_g.jpg",
+      "Foto 1": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-1_g.jpg",
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-3_g.JPG",
-      "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-7p_g.jpg",
+      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-7p_g.jpg",
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-5_g.JPG",
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-6_g.JPG",
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-103-4_g.jpg"
@@ -387,7 +369,7 @@
     },
     {
       "id": "50",
-      "Nombre": "MASS. Museo Azul de la Semana Santa",
+      "Nombre": "Museo Azul de Semana Santa",
       "Dirección": "C/ Cuesta de San Francisco, 2",
       "C.P.": "30800",
       "Municipio": "Lorca",
@@ -413,7 +395,7 @@
     },
     {
       "id": "14",
-      "Nombre": "MUAL. Museo Arqueológico Municipal de Lorca",
+      "Nombre": "Museo Arqueológico de Lorca",
       "Dirección": "Plaza de Don Juan Moreno, s/n.",
       "C.P.": "30800",
       "Municipio": "Lorca",
@@ -436,7 +418,7 @@
     },
     {
       "id": "34",
-      "Nombre": "muBBla, Museo de Bordados Paso Blanco",
+      "Nombre": "Bordados Paso Blanco",
       "Dirección": "Conjunto Monumental de Santo Domingo, 8",
       "C.P.": "30800",
       "Municipio": "Lorca",
@@ -456,29 +438,8 @@
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-34-3p_g.jpg"
     },
     {
-      "id": "5349",
-      "Nombre": "MUDEM - MUSEO DEL ENCLAVE DE LA MURALLA",
-      "Dirección": "Plaza del Enclave de la Muralla, s/n",
-      "C.P.": "30500",
-      "Municipio": "Molina de Segura",
-      "Pedanía": "MOLINA DE SEGURA",
-      "Teléfono": "968 38 85 62 / 968 38 85 00 Ext. 2510.",
-      "Fax": "",
-      "Email": "felipe.gonzalez@molinadesegura.es",
-      "URL Real": "",
-      "URL Corta": "",
-      "Latitud": "-1.214146",
-      "Longitud": "38.051199",
-      "Descripción": "<p>El Museo del Enclave de la Muralla (MUDEM) alberga parte de la muralla medieval andalus&iacute,. En total son 125 metros de yacimiento en el que destacan las torres, una de ellas es nonagonal, sin paralelos, algo infrecuente en su &eacute,poca. El objetivo es que el visitante conozca gracias a los avances tecnol&oacute,gicos, la historia de Molina desde el siglo XI hasta el XVI.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5349-1p_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5349-2p_g.jpg",
-      "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5349-5p_g.jpg",
-      "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5349-4p_g.jpg",
-      "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5349-3p_g.jpg"
-    },
-    {
       "id": "86",
-      "Nombre": "MUPAEN. Museo de Bordados del Paso Encarnado",
+      "Nombre": "Bordados del Paso Encarnado",
       "Dirección": "Eulogio Periago, 2",
       "C.P.": "30800",
       "Municipio": "Lorca",
@@ -496,7 +457,7 @@
     },
     {
       "id": "8738",
-      "Nombre": "Museo Aeronáutico Tiflológico (MAT)",
+      "Nombre": "Museo Aeronáutico Tiflológico",
       "Dirección": "Paseo Colón",
       "C.P.": "30720",
       "Municipio": "San Javier",
@@ -509,14 +470,14 @@
       "Latitud": "-0.8011296",
       "Longitud": "37.8029669",
       "Descripción": "<p><strong>MUSEO TIFLOL&Oacute,GICO SAN JAVIER</strong></p><p>&nbsp,</p><p>El Museo Aeron&aacute,utico Tiflol&oacute,gico (M&Lambda,T) es un nuevo espacio al aire libre, accesible para todo tipo de p&uacute,blico y adaptado a personas con discapacidad visual o auditiva, en el que la informaci&oacute,n llega al visitante tanto por el canal tradicional de la vista como por el tacto. Para favorecer la comprensi&oacute,n y disfrute del museo por el usuario, el M&Lambda,T utiliza un sistema por c&oacute,digo QR de f&aacute,cil instalaci&oacute,n, que facilita el acceso inmediato al contenido de todas las piezas que componen el museo, ofreciendo al visitante informaci&oacute,n detallada de cada una de las maquetas expuestas a lo largo de todo el recorrido.</p><p>&nbsp,</p><p>La relaci&oacute,n de San Javier con la aeron&aacute,utica es tan estrecha como antigua. El primer campo de vuelo del municipio se remonta a 1920 cuando la Armada Espa&ntilde,ola decidi&oacute, construir su primera base aeronaval en Santiago de la Ribera como centro principal de la Aeron&aacute,utica Naval Espa&ntilde,ola. Tras la Guerra Civil, en julio de 1943 se crea la Academia General del Aire con la finalidad de unificar la formaci&oacute,n de los oficiales del Ej&eacute,rcito del Aire y se decide su ubicaci&oacute,n en las instalaciones militares del municipio de San Javier. El mantenimiento ininterrumpido de la actividad a&eacute,rea durante m&aacute,s de un siglo y su prestigio como escuela de vuelo convierten a la base a&eacute,rea militar de San Javier en todo un referente mundial.</p><p>&nbsp,</p><p>La persistencia de la cultura aeron&aacute,utica en el municipio de San Javier y sus habitantes se explica no solo por la convivencia y la admiraci&oacute,n popular por la Aviaci&oacute,n si no tambi&eacute,n por los componentes sentimentales y socioecon&oacute,micos que conlleva la llegada del Ej&eacute,rcito del Aire al municipio.</p><p>&nbsp,</p><p>La prosperidad iniciada en los a&ntilde,os 20 con la llegada de la Aeron&aacute,utica Naval en lo que entonces era un peque&ntilde,o n&uacute,cleo de pescadores, se acrecent&oacute, con la instalaci&oacute,n de la Academia General del Aire que impuls&oacute, el crecimiento no solo de Santiago de la Ribera sino de todo el municipio, gracias a la modernizaci&oacute,n de infraestructuras b&aacute,sicas y abastecimiento. La llegada del Ej&eacute,rcito del Aire supuso la construcci&oacute,n de la colonia &ldquo,Julio Ruiz de Alda&rdquo,, as&iacute, como de nuevos colegios e institutos y la dotaci&oacute,n de nuevos servicios para acoger el incremento de poblaci&oacute,n que conllevaba la instalaci&oacute,n de la AGA en el municipio de San Javier.</p><p>&nbsp,</p><p>La aeron&aacute,utica en San Javier ha vivido grandes hitos como la celebraci&oacute,n del Festival Aire06, organizado por el Ejercito del Aire en las playas de Santiago de la Ribera que congreg&oacute, a m&aacute,s de 500.000 personas y m&aacute,s de cien aviones en un festival que consigui&oacute, el premio al Mejor Festival A&eacute,reo de Europa en 2006 concedido por el Consejo Europeo de Exhibiciones A&eacute,reas. La celebraci&oacute,n del 75 Aniversario de la AGA celebrado en 2018, constituy&oacute, una muestra m&aacute,s de la estrecha relaci&oacute,n entre la instituci&oacute,n militar y el Ayuntamiento de San Javier, con la celebraci&oacute,n de una serie de actos conjuntos, que culminaron en otro multitudinario festival a&eacute,reo, que contribuy&oacute, en la consolidaci&oacute,n de San Javier como centro de la cultura aeron&aacute,utica en Espa&ntilde,a.</p><p>&nbsp,</p><p>La historia de la Aviaci&oacute,n Espa&ntilde,ola est&aacute, &iacute,ntimamente ligada al municipio de San Javier y concretamente a la localidad de Santiago de la Ribera cuyas magn&iacute,ficas condiciones de vuelo ha permitido que desde 1920 (cuando lleg&oacute, la Aeron&aacute,utica Naval) hasta 2020 se hayan realizado m&aacute,s de un mill&oacute,n de horas vuelo sobre sus cielos. Un siglo de relaci&oacute,n entre San Javier y la aeron&aacute,utica que quedan reflejados en este M&Lambda,T al aire libre.</p><p>&nbsp,</p><p>Las piezas que componen actualmente el M&Lambda,T son un photocall tridimensional, cinco maquetas de los aviones m&aacute,s caracter&iacute,sticos a lo largo de la historia de la base a&eacute,rea: Dornier J &ldquo,Wal&rdquo,, Beechcraft T-34 &ldquo,Mentor&rdquo,, North American T-6 &ldquo,Texan&rdquo,, Hispano Ha-200 &ldquo,Saeta&rdquo, y el CASA C-101 &ldquo,Mirlo&rdquo,, y cinco bancos dise&ntilde,ados para recoger la esencia de cada uno de los aviones reproduciendo el color y escarapela aeron&aacute,utica que los caracteriza visualmente.</p><p>&nbsp,</p><p>El photocall tridimensional es un espacio en el que los visitantes podr&aacute,n inmortalizar el momento para tener un recuerdo imborrable en familia de su estancia en Santiago de la Ribera. Representa a una familia de pilotos, aprovechando la coincidencia real de un matrimonio de pilotos en activo como miembros de la Patrulla &Aacute,guila, con la que San Javier quiere destacar la presencia en el Ej&eacute,rcito de hombres y mujeres comprometidos con Espa&ntilde,a y homenajear, de manera simb&oacute,lica, a la &ldquo,familia militar&rdquo,.</p><p>&nbsp,</p><p>La exposici&oacute,n comienza con el tipo de avi&oacute,n distintivo en la &eacute,poca de la Base Aeronaval (1920-1939), el hidroavi&oacute,n, entre los que destac&oacute, el alem&aacute,n Dornier J &ldquo,Wal&rdquo, que fue uno de los aviones m&aacute,s conocidos en ese periodo, manteni&eacute,ndose en vuelo hasta el final de la Guerra Civil. El &ldquo,Wal&rdquo, protagoniz&oacute, varias haza&ntilde,as como ser el primer avi&oacute,n en llegar al Polo Norte, con Ronald Amundsen. Otro de los hitos de este avi&oacute,n lo protagonizaron los espa&ntilde,oles Ram&oacute,n Franco, Julio Ruiz de Alda, Pablo Rada y Juan Manuel Dur&aacute,n en 1926 cuando atravesaron el Atl&aacute,ntico Sur recorriendo 10.270 kil&oacute,metros.</p><p>&nbsp,</p><p>En 1958 la Academia recibi&oacute, el Beechcraft T-34 &ldquo,Mentor&rdquo, que demostrar&aacute, ser uno de los mejores aviones de ense&ntilde,anza de la historia de San Javier. En &eacute,l se formaron como pilotos los reyes Juan Carlos I , en el primer a&ntilde,o de operaci&oacute,n de este modelo, y el rey Felipe VI en 1989, &uacute,ltimo a&ntilde,o de operaci&oacute,n de la Mentor. Es considerado el avi&oacute,n m&aacute,s seguro de la historia de la Academia.</p><p>&nbsp,</p><p>En 1962 lleg&oacute, a la Academia General del Aire otro avi&oacute,n m&iacute,tico. El North American T-6 &ldquo,Texan&rdquo,, que se utiliz&oacute, sobre todo como avi&oacute,n de ense&ntilde,anza avanzada y de reconocimiento , participando en los conflictos de Sidi Ifni y el Sahara. El &ldquo,Texan&rdquo, permaneci&oacute, en vuelo hasta el a&ntilde,o 1982 cunando fue sustituido por el C-101.</p><p>&nbsp,</p><p>En 1972 se potenci&oacute, la formaci&oacute,n de vuelo de la Academia al recibir el avi&oacute,n Hispano Ha-200 Saeta, primera avi&oacute,n a reacci&oacute,n fabricado en Espa&ntilde,a, con dos turbinas , una cabina biplaza en t&aacute,ndem y una velocidad de crucero de 600 km/h. En Espa&ntilde,a el Saeta estuvo operativo entre 1962 y 1981, siendo la AGA la &uacute,ltima unidad dotada con este modelo de avi&oacute,n.</p><p>&nbsp,</p><p>En el a&ntilde,o 1980 lleg&oacute, a la AGA el avi&oacute,n CASA C-101 &ldquo,Mirlo&rdquo,, de fabricaci&oacute,n espa&ntilde,ola, que supuso un gran salto cualitativo en la ense&ntilde,anza de vuelo y que se ha convertido en el avi&oacute,n que m&aacute,s tiempo ha estado operativo en la AGA. El C-101, que est&aacute, considerado como un excelente entrenador de vuelo y que llega a alcanzar la velocidad de 770km/h pasar&aacute, a la historia por impulsar la creaci&oacute,n de la c&eacute,lebre Patrulla &Aacute,guila. En 1985, un grupo de profesores, aprovechando las capacidades del C-101, decidi&oacute, crear un equipo acrob&aacute,tico que se bautiz&oacute, como Patrulla &Aacute,guila y que desde entonces ha incrementado el prestigio de la Academia General del Aire representando al Ej&eacute,rcito del Aire y llevando el nombre de San Javier por el Mundo.</p><p>&nbsp,</p><p>&nbsp,</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8738-1p_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8738-4p_g.jpg",
+      "Foto 1": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8738-1p_g.jpg",
+      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8738-4p_g.jpg",
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8738-3p_g.jpg",
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8738-2p_g.jpg"
     },
     {
       "id": "82",
-      "Nombre": "Museo al aire libre: 'Ceutí a Cielo Abierto'",
+      "Nombre": "Ceutí a Cielo Abierto",
       "Dirección": "Sin domicilio (recorrido por la localidad)",
       "C.P.": "30562",
       "Municipio": "Ceutí",
@@ -545,29 +506,8 @@
       "Foto 14": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/joseplanes-cervantes_g.jpg"
     },
     {
-      "id": "8",
-      "Nombre": "Museo Arqueológico ",
-      "Dirección": "calle mayor nº 14",
-      "C.P.": "30420",
-      "Municipio": "Calasparra",
-      "Pedanía": "CALASPARRA",
-      "Teléfono": "968 745 325",
-      "Fax": "968 745 325",
-      "Email": "oficinadeturismodecalasparra@gmail.com",
-      "URL Real": "http://turismocalasparra.es",
-      "URL Corta": "",
-      "Latitud": "-1.696370",
-      "Longitud": "38.231335",
-      "Descripción": "<p>Conserva y expone los restos de la cultura medieval hallados en el t&eacute,rmino municipal de la villa y su entorno, desde el Paleol&iacute,tico hasta la cultura musulmana del s. XIII.<br />El museo cuenta, con casi 700 objetos relacionados con la Arqueolog&iacute,a y las Ciencias Naturales.<br /><br />Destacan, dentro de la colecci&oacute,n arqueol&oacute,gica, los hallazgos isl&aacute,micos del <strong>yacimiento de la Villa Vieja</strong>. De la colecci&oacute,n dedicada a las Ciencias Naturales hay abundantes f&oacute,siles y minerales.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000920011_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000920013_g.jpg",
-      "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8-6_g.jpg",
-      "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-8-5_g.jpg",
-      "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000920014_g.jpg"
-    },
-    {
       "id": "80",
-      "Nombre": "Museo Arqueológico - Factoría Romana de Salazones",
+      "Nombre": "Factoría Romana de Salazones",
       "Dirección": "C/ La Torre esq. San Ginés ",
       "C.P.": "30860",
       "Municipio": "Mazarrón",
@@ -592,7 +532,7 @@
     },
     {
       "id": "5767",
-      "Nombre": "Museo Arqueológico Comarcal de Orihuela - MARQUO",
+      "Nombre": "Museo Arqueológico de Orihuela",
       "Dirección": "C/ Hospital, 3",
       "C.P.": "03300",
       "Municipio": "Orihuela",
@@ -633,30 +573,6 @@
       "Foto 9": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/000029200110_g.jpg"
     },
     {
-      "id": "99",
-      "Nombre": "Museo Arqueológico de Portmán",
-      "Dirección": "C/ Caridad, s/n",
-      "C.P.": "",
-      "Municipio": "La Unión",
-      "Pedanía": "",
-      "Teléfono": "968 541 614"
-    },
-    {
-      "id": "111",
-      "Nombre": "",
-      "Dirección": "turismo@ayto-launion.com",
-      "C.P.": "",
-      "Municipio": "",
-      "Pedanía": "4163029",
-      "Teléfono": "689600",
-      "Fax": "<p><strong>El edificio</strong>.- Construido en 1892 est&aacute, declarado como Bien de Inter&eacute,s Cultural. Fundado para atender a los heridos de la actividad minera, es de planta rectangular con capilla central y estancias circundantes para los internos. Con torre octogonal con c&uacute,pula semiesf&eacute,rica de la capilla y peque&ntilde,a linterna superior.<br /><br /><strong>La exposici&oacute,n</strong>.- En &eacute,l est&aacute,n expuestos parte de los mosaicos y pinturas sobre estuco, hallados en las excavaciones de la villa romana del siglo I-III d.C. de la huerta del &quot,Paturro&quot,. Los mosaicos de factura &quot,opus tesellatum&quot,, tienen como motivo central decorativo el pavo real y el rostro femenino y son una magn&iacute,fica muestra de este arte suntuario.</p>",
-      "Email": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/lorcaarqueologico_g.jpg",
-      "URL Real": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/lorcaarqueologico2_g.jpg",
-      "URL Corta": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000320045_g.jpg",
-      "Latitud": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000320044_g.jpg",
-      "Longitud": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000320043_g.jpg"
-    },
-    {
       "id": "104",
       "Nombre": "Museo Arqueológico los Baños",
       "Dirección": "C/ Sánchez Vidal, 5",
@@ -683,7 +599,7 @@
     },
     {
       "id": "8113",
-      "Nombre": "Museo Arqueológico Municipal Cayetano de Mergelina",
+      "Nombre": "Museo Cayetano de Mergelina",
       "Dirección": "C/ España, nº 37. Palacio de los Ortega (Casa Municipal de Cultura)",
       "C.P.": "30510",
       "Municipio": "Yecla",
@@ -704,7 +620,7 @@
     },
     {
       "id": "53",
-      "Nombre": "Museo Arqueológico Municipal de Águilas.",
+      "Nombre": "Museo Arqueológico de Águilas",
       "Dirección": "C/ Conde de Aranda, 5",
       "C.P.": "30880",
       "Municipio": "Águilas",
@@ -725,7 +641,7 @@
     },
     {
       "id": "51",
-      "Nombre": "Museo Arqueológico Municipal de Cartagena",
+      "Nombre": "Museo Arqueológico Cartagena",
       "Dirección": "C/ Ramón y Cajal, 45",
       "C.P.": "30205",
       "Municipio": "Cartagena",
@@ -748,7 +664,7 @@
     },
     {
       "id": "30",
-      "Nombre": "Museo Arqueológico Municipal de Cehegín",
+      "Nombre": "Museo Arqueológico Cehegín",
       "Dirección": "Plaza del Castillo, s/n",
       "C.P.": "30430",
       "Municipio": "Cehegín",
@@ -772,7 +688,7 @@
     },
     {
       "id": "15",
-      "Nombre": "Museo Arqueológico Municipal Jerónimo Molina",
+      "Nombre": "Museo Jerónimo Molina",
       "Dirección": "Pza. de Arriba, s/n. Antiguo Palacio del Concejo.",
       "C.P.": "30520",
       "Municipio": "Jumilla",
@@ -795,7 +711,7 @@
     },
     {
       "id": "26",
-      "Nombre": "Museo Arqueológico Municipal la Soledad",
+      "Nombre": "Museo Arqueológico la Soledad",
       "Dirección": "Cuesta del Castillo, s/n. Iglesia de la Soledad",
       "C.P.": "30400",
       "Municipio": "Caravaca de la Cruz",
@@ -854,22 +770,6 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-5447-2p_g.jpg"
     },
     {
-      "id": "5282",
-      "Nombre": "Museo Crux Caravacensis",
-      "Dirección": "C/ Mayor, 18 Bajo",
-      "C.P.": "30400",
-      "Municipio": "Caravaca de la Cruz",
-      "Pedanía": "",
-      "Teléfono": "666 071 480",
-      "Fax": "",
-      "Email": "cruciscaravacensis@cruciscaravacensis.com",
-      "URL Real": "",
-      "URL Corta": "",
-      "Latitud": "",
-      "Longitud": "",
-      "Descripción": "<p>Un recorrido por la historia de la Cruz de Caravaca desde los siglos XVI al XIX en Alemania, Austria, Polonia, Francia, Rep&uacute,blica Checa, Italia y Pa&iacute,ses Bajos. Peque&ntilde,as reproducciones que se muestran en la exposici&oacute,n llegaron a estos pa&iacute,ses con las &Oacute,rdenes Religiosas o portadas por peregrinos que viajaban a Caravaca atra&iacute,dos por la fama milagrosa de la Cruz. Tradici&oacute,n, cultura y religi&oacute,n en un espacio singular donde hoy se muestran en las paredes de piedra, la imborrable huella de la Cruz de Caravaca por el mundo.</p>"
-    },
-    {
       "id": "6119",
       "Nombre": "Museo de Archena",
       "Dirección": "Avenida del Río Segura",
@@ -894,7 +794,7 @@
     },
     {
       "id": "13",
-      "Nombre": "Museo de Arte de San Miguel Arcángel",
+      "Nombre": "Museo San Miguel Arcángel",
       "Dirección": "C/ del Chorrador. Junto Iglesia San Miguel",
       "C.P.": "30170",
       "Municipio": "Mula",
@@ -907,15 +807,15 @@
       "Latitud": "-1.4905",
       "Longitud": "38.04238",
       "Descripción": "<p>Del siglo XVI al XX. El Museo de Arte de San Miguel Arc&aacute,ngel muestra tanto obras religiosas como profanas y acoge colecciones como la de &quot,La Canal Blaya&quot,.<br />Dividido en cinco salas, por sus estancias se pueden conocer desde la historia de Ca&iacute,n y Abel, el arrepentimiento de San Pedro o la Adoraci&oacute,n de los Pastores, pasando por alegor&iacute,as, signos zodiacales y bodegones, hasta llegar a pintura religiosa de los siglos XVI, XVII y XVIII o im&aacute,genes tan conocidas como el Cristo de Pasi&oacute,n, la Santa Cena o la Virgen Dolorosa.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-1_g.JPG",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-3_g.JPG",
+      "Foto 1": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-1_g.JPG",
+      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-3_g.JPG",
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-6_g.JPG",
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-5_g.JPG",
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-13-4_g.JPG"
     },
     {
       "id": "40",
-      "Nombre": "Museo de Arte Ibérico El Cigarralejo",
+      "Nombre": "Museo de Arte El Cigarralejo",
       "Dirección": "C/ Marqués, 1",
       "C.P.": "30170",
       "Municipio": "Mula",
@@ -962,7 +862,7 @@
     },
     {
       "id": "46",
-      "Nombre": "Museo de Bellas Artes de Murcia",
+      "Nombre": "Museo Bellas Artes de Murcia",
       "Dirección": "C/ Obispo Frutos, 12",
       "C.P.": "30003",
       "Municipio": "Murcia",
@@ -983,7 +883,7 @@
     },
     {
       "id": "87",
-      "Nombre": "Museo de bordados y esculturas 'Nicolás Salzillo il maestro'",
+      "Nombre": "Nicolás Salzillo il maestro",
       "Dirección": "C/ Nogalte, 43",
       "C.P.": "30800",
       "Municipio": "Lorca",
@@ -1005,7 +905,7 @@
     },
     {
       "id": "1",
-      "Nombre": "Museo de Carmen Conde y Antonio Oliver",
+      "Nombre": "Carmen Conde y Antonio Oliver",
       "Dirección": "Centro Cultural Ramón Alonso Luzzy. C/ Jacinto Benavente, 7",
       "C.P.": "30203",
       "Municipio": "Cartagena",
@@ -1027,7 +927,7 @@
     },
     {
       "id": "47",
-      "Nombre": "Museo de Historia Local de San Javier",
+      "Nombre": "Historia Local de San Javier",
       "Dirección": "Ctra. a Cartagena, s/n",
       "C.P.": "30730",
       "Municipio": "San Javier",
@@ -1048,7 +948,7 @@
     },
     {
       "id": "55",
-      "Nombre": "Museo de la Archicofradía de la Sangre",
+      "Nombre": "Archicofradía de la Sangre",
       "Dirección": "Calle Sacerdotes Hermanos Cerón, 25, ",
       "C.P.": "30002",
       "Municipio": "Murcia",
@@ -1137,7 +1037,7 @@
     },
     {
       "id": "81",
-      "Nombre": "Museo de la Cofradía de la Oración del Huerto y Santo Sepulcro",
+      "Nombre": "Oración del Huerto",
       "Dirección": "C/ Cartas, s/n",
       "C.P.": "30530",
       "Municipio": "Cieza",
@@ -1169,13 +1069,13 @@
       "Latitud": "-1.861194",
       "Longitud": "38.109972",
       "Descripción": "<p><strong>CERRADO TEMPORALMENTE</strong></p><p>De moros o de cristianos. As&iacute, se visten los caravaque&ntilde,os en festejos tan se&ntilde,alados como los que se organizan en honor de la Sant&iacute,sima y Vera Cruz, del 1 al 5 de mayo. Y estos trajes es precisamente lo que ense&ntilde,a al visitante este museo, aparte de los atalajes con los que se enjaezan a los Caballos del Vino el 2 de mayo.<br />El edificio, que data del siglo XVI, ha pertenecido a varios caravaque&ntilde,os ilustres. Primero lo fue de don Luis de Mora, posteriormente, de la familia Uribe hasta que finalmente lleg&oacute, a manos del Marqu&eacute,s de San Mam&eacute,s.<br /><br />Casa catalogada como &quot,Protegida&quot,, fue Palacete del Marqu&eacute,s de los Uribe.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000220035_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-16-7_g.jpg",
+      "Foto 1": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00000220035_g.jpg",
+      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-16-7_g.jpg",
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-16-6_g.jpg"
     },
     {
       "id": "108",
-      "Nombre": "Museo de la Música Étnica de Barranda",
+      "Nombre": "Música Étnica de Barranda",
       "Dirección": "C/ Pedrera, s/n",
       "C.P.": "30412",
       "Municipio": "Caravaca de la Cruz",
@@ -1217,7 +1117,7 @@
     },
     {
       "id": "83",
-      "Nombre": "Museo de la Real Cofradía de Nuestra Señora de Gracia y Esperanza",
+      "Nombre": "Señora de Gracia y Esperanza",
       "Dirección": "C/ Diego Tortosa, s/n",
       "C.P.": "30530",
       "Municipio": "Cieza",
@@ -1254,7 +1154,7 @@
     },
     {
       "id": "105",
-      "Nombre": "Museo de la Universidad de Murcia",
+      "Nombre": "Universidad de Murcia",
       "Dirección": "C/ Cartagena s/n, Pabellón 4, Antiguo Cuartel de Artillería",
       "C.P.": "30002",
       "Municipio": "Murcia",
@@ -1299,7 +1199,7 @@
     },
     {
       "id": "4695",
-      "Nombre": "Museo de Moros y Cristianos de Murcia",
+      "Nombre": "Moros y Cristianos de Murcia",
       "Dirección": "C/ Cartagena s/n (1º planta del Pabellón II, Antiguo Cuartel de Artillería)",
       "C.P.": "30002",
       "Municipio": "Murcia",
@@ -1320,7 +1220,7 @@
     },
     {
       "id": "90",
-      "Nombre": "Museo de Réplicas de El Greco - ReGreco",
+      "Nombre": "Réplicas de El Greco",
       "Dirección": "C/ España, nº 37. Palacio de los Ortega. Casa Municipal de Cultura",
       "C.P.": "30510",
       "Municipio": "Yecla",
@@ -1380,7 +1280,7 @@
     },
     {
       "id": "78",
-      "Nombre": "Museo de Semana Santa de Yecla",
+      "Nombre": "Museo Semana Santa de Yecla",
       "Dirección": "Plaza de la Asunción, s/n. Iglesia Vieja o del Salvador",
       "C.P.": "30510",
       "Municipio": "Yecla",
@@ -1420,24 +1320,6 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001720012_g.jpg"
     },
     {
-      "id": "74",
-      "Nombre": "Museo del Arroz",
-      "Dirección": "C/Mayor, 14",
-      "C.P.": "30420",
-      "Municipio": "Calasparra",
-      "Pedanía": "CALASPARRA",
-      "Teléfono": "968 745 325",
-      "Fax": "968 745 325",
-      "Email": "oficinadeturismodecalasparra@gmail.com",
-      "URL Real": "www.turismocalasparra.es",
-      "URL Corta": "",
-      "Latitud": "-1.696370",
-      "Longitud": "38.231335",
-      "Descripción": "<p>Calasparra brinda homenaje con &eacute,ste museo al Arroz. El museo se compone de varias salas en las que el visitante podr&aacute, adentrarse en el mundo del arroz y su historia, ayud&aacute,ndose para ello de paneles informativos, una sala de audiovisuales y juegos did&aacute,cticos orientados a los ni&ntilde,os.<br /><br />Adem&aacute,s hay una sala destinada a exposici&oacute,n fotogr&aacute,fica, una peque&ntilde,a biblioteca donde poderse ilustrar con documentos y escritos relativos al arroz y todo ello complementado con la exposici&oacute,n de materiales y utillaje utilizados en la pr&aacute,ctica del cultivo de este cereal.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/52008i2_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/52008i1_g.jpg"
-    },
-    {
       "id": "48",
       "Nombre": "Museo del Belén de San Javier",
       "Dirección": "Ctra. Cartagena s/n",
@@ -1460,7 +1342,7 @@
     },
     {
       "id": "5594",
-      "Nombre": "Museo del Belén. Ermita de San Roque",
+      "Nombre": "Ermita de San Roque",
       "Dirección": "Calle San Roque",
       "C.P.": "30800",
       "Municipio": "Lorca",
@@ -1527,7 +1409,7 @@
     },
     {
       "id": "37",
-      "Nombre": "Museo del Convento de Santa Ana del Monte de Jumilla",
+      "Nombre": "Convento Santa Ana del Monte",
       "Dirección": "Convento de Santa Ana del Monte",
       "C.P.": "30520",
       "Municipio": "Jumilla",
@@ -1567,7 +1449,7 @@
     },
     {
       "id": "6994",
-      "Nombre": "Museo del Esparto y Antiguedades",
+      "Nombre": "Esparto y Antiguedades",
       "Dirección": "Palacete de VillaRías",
       "C.P.": "30600",
       "Municipio": "Archena",
@@ -1732,7 +1614,7 @@
     },
     {
       "id": "93",
-      "Nombre": "Museo Etnográfico Carlos Soriano",
+      "Nombre": "Etnográfico Carlos Soriano",
       "Dirección": "Pza. de la Ermita, s/n",
       "C.P.": "30509",
       "Municipio": "Molina de Segura",
@@ -1753,7 +1635,7 @@
     },
     {
       "id": "59",
-      "Nombre": "Museo Etnológico de la Huerta de Alcantarilla",
+      "Nombre": "Museo Huerta de Alcantarilla",
       "Dirección": "Avda. Príncipe, s/n",
       "C.P.": "30820",
       "Municipio": "Alcantarilla",
@@ -1766,11 +1648,11 @@
       "Latitud": "-1.211592",
       "Longitud": "37.976862",
       "Descripción": "<p>&iquest,C&oacute,mo es la vida de los huertanos? &iquest,Cu&aacute,les son sus costumbres? Estas son algunas de las claves que desvela el Museo de la Huerta de Alcantarilla, que dispone de la popular Noria de Alcantarilla adem&aacute,s de la recreaci&oacute,n de una t&iacute,pica barraca. Adem&aacute,s de eso, contiene piezas &uacute,nicas como lebrillos de la Cartuja, plateras, loza y Cristal de la f&aacute,brica Valarino de Cartagena, aperos de labranza, una colecci&oacute,n de abanicos o trajes antiguos de los huertanos.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-2p_g.jpg",
+      "Foto 1": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-2p_g.jpg",
       "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-3p_g.JPG",
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-7p_g.jpg",
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-5p_g.jpg",
-      "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-6p_g.jpg",
+      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-6p_g.jpg",
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-59-4p_g.jpg"
     },
     {
@@ -1792,7 +1674,7 @@
     },
     {
       "id": "8743",
-      "Nombre": "Museo Fundación Boyer Tresaco",
+      "Nombre": "Fundación Boyer Tresaco",
       "Dirección": "C/Gran Vía, Km. 0,5 - Urb. Los Cubanitos",
       "C.P.": "30380",
       "Municipio": "La Manga",
@@ -1814,7 +1696,7 @@
     },
     {
       "id": "43",
-      "Nombre": "Museo Hidráulico Molinos del Río",
+      "Nombre": "Hidráulico Molinos del Río",
       "Dirección": "Calle Molinos, 1",
       "C.P.": "30002",
       "Municipio": "Murcia",
@@ -1834,7 +1716,7 @@
     },
     {
       "id": "4800",
-      "Nombre": "MUSEO HORNO DEL CONCEJO Y CASA DEL FOLCLORE",
+      "Nombre": "HORNO DEL CONCEJO, CASA FOLCLORE",
       "Dirección": "C/ Cid Campeador, 2 - Esquina calle del Castillo",
       "C.P.": "30500",
       "Municipio": "Molina de Segura",
@@ -1855,7 +1737,7 @@
     },
     {
       "id": "24",
-      "Nombre": "Museo Mariano Virgen del Castillo",
+      "Nombre": "Mariano Virgen del Castillo",
       "Dirección": "Explanada del Santuario del Castillo.",
       "C.P.": "30510",
       "Municipio": "Yecla",
@@ -1868,14 +1750,14 @@
       "Latitud": "-1.1207",
       "Longitud": "38.6094041",
       "Descripción": "<p>El edificio donde se sit&uacute,a este Museo, <strong>junto al Santuario del Castillo</strong>, sirvi&oacute, de alojamiento a los Franciscanos a modo conventual. Siguiendo un proyecto de Antonio Mart&iacute,nez Prats, se ha edificado un moderno edificio, abierto al p&uacute,blico recientemente, donde en su sala de exposiciones, situada en la segunda planta se pueden contemplar <strong>todo tipo de objetos relacionados con las Fiestas Patronales</strong> que se celebran en el mes de diciembre, en honor de la Pur&iacute,sima Concecpi&oacute,n. En el claustro se expone la carroza de la Virgen.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001120032_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-24-5p_g.JPG",
+      "Foto 1": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001120032_g.jpg",
+      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-24-5p_g.JPG",
       "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001120034_g.jpg",
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00001120033_g.jpg"
     },
     {
       "id": "56",
-      "Nombre": "Museo Militar. Sección Delegada del Museo Militar Regional de Cartagena",
+      "Nombre": "Museo Militar Cartagena",
       "Dirección": "Pza. Puerta de la Serreta, s/n",
       "C.P.": "30201",
       "Municipio": "Cartagena",
@@ -1894,28 +1776,6 @@
       "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-56-4p_g.jpg",
       "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-56-5p_g.jpg",
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-56-3p_g.jpg"
-    },
-    {
-      "id": "36",
-      "Nombre": "Museo Minero",
-      "Dirección": "C/ Mayor, 55, Edificio del Liceo de Obreros",
-      "C.P.": "30360",
-      "Municipio": "La Unión",
-      "Pedanía": "LA UNIÓN",
-      "Teléfono": "968 541 614",
-      "Fax": "",
-      "Email": "turismo@ayto-launion.com",
-      "URL Real": "",
-      "URL Corta": "",
-      "Latitud": "4165786",
-      "Longitud": "687243",
-      "Descripción": "<p><strong>El edificio.</strong>- La Casa del Pi&ntilde,&oacute,n es un edificio centenario obra del arquitecto Pedro Cerd&aacute,n y Victor Beltr&iacute,, construido en 1905.<br /><br /><strong>La colecci&oacute,n. </strong>- Constituye sin duda una referencia obligada en la historia de la miner&iacute,a espa&ntilde,ola. Cinco espaciosas y luminosas salas sirven de magn&iacute,fico marco para esta colecci&oacute,n:<br />- Sala I: Introduci&oacute,n y mineralog&iacute,a<br />- Sala II: Iluminaci&oacute,n, protecci&oacute,n y perforaci&oacute,n<br />- Sala III: Perforaci&oacute,n y arrastre<br />- Sala IV: Lavado, Criba y Laboratorios<br />- Sala V: Fragua y D&iacute,a a D&iacute,a</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-36-13p_g.JPG",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-36-14p_g.JPG",
-      "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-36-18p_g.jpg",
-      "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-36-16p_g.JPG",
-      "Foto 5": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-36-17p_g.jpg",
-      "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-36-15p_g.JPG"
     },
     {
       "id": "10",
@@ -1940,7 +1800,7 @@
     },
     {
       "id": "35",
-      "Nombre": "Museo Municipal Jeromino Molina seccion de Etnografia y Ciencias de la Naturaleza",
+      "Nombre": "Jeromino Molina ",
       "Dirección": "Pza. de la Constitución, 3",
       "C.P.": "30520",
       "Municipio": "Jumilla",
@@ -1963,7 +1823,7 @@
     },
     {
       "id": "128",
-      "Nombre": "Museo Municipal Palacio Barón de Benifayó",
+      "Nombre": "Palacio Barón de Benifayó",
       "Dirección": "Avda. de Orihuela, s/n",
       "C.P.": "30740",
       "Municipio": "San Pedro del Pinatar",
@@ -2004,26 +1864,6 @@
       "Foto 6": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/recurso-1-32-3p_g.jpg"
     },
     {
-      "id": "142",
-      "Nombre": "Museo Parroquial de San Javier",
-      "Dirección": "PLAZA DE ESPAÑA",
-      "C.P.": "30730",
-      "Municipio": "San Javier",
-      "Pedanía": "SAN JAVIER",
-      "Teléfono": "968 571 085",
-      "Fax": "",
-      "Email": "",
-      "URL Real": "http://www.parroquiasanjavier.es",
-      "URL Corta": "",
-      "Latitud": "-0.835122",
-      "Longitud": "7.805635",
-      "Descripción": "<p>*****CERRADO TEMPORALMENT POR REFORMAS****</p><p>El Museo Parroquial de San Javier se halla en la iglesia de San Francisco Javier, detr&aacute,s del presbiterio. Esta iglesia fue fundada como ermita, en el XVII y se dedic&oacute, al santo misionero.<br /><br />Al cumplirse los trescientos a&ntilde,os de la fundaci&oacute,n de la parroquia, se lleva a cabo la fundaci&oacute,n del museo, como homenaje a la poblaci&oacute,n que ha convivido al amparo de su Iglesia Parroquial, cuyo legado ha recibido.<br /><br />En la sala A son significativas la serie de vestiduras sagradas correspondientes al siglo XVII, aportadas por alguno de los primeros p&aacute,rrocos, las medallas, galardones y objetos de culto pertenecientes a algunos sacerdotes ilustres.<br /><br />En la sala B, destacan las peque&ntilde,as im&aacute,genes, talladas, la mayor parte en madera, estofadas y policromadas, que se muestran en las vitrinas, y el Baptisterio, formado por una pila bautismal de m&aacute,rmol del Macael, coronada por un templete de madera, que sirve de armario para guardar los elementos bautismales, tras cada celebraci&oacute,n. Por &uacute,ltimo, la visita culmina con la subida al Camar&iacute,n del Santo, por medio de una c&oacute,moda escalera, con barandilla del siglo XVIII, en cuyas paredes laterales se exponen algunas piezas de gran belleza: sacras, cuadros, estandarte, etc., y en su parte alta, a la entrada al Camar&iacute,n, una imagen de San Antonio, en pasta de madera, de Olot, muy vinculada a la historia cercana de nuestra parroquia. Tambi&eacute,n se muestra un tabern&aacute,culo de gran belleza, que se instala en el Monumento del Jueves Santo. Ser&iacute,a incompleta la visita al Museo si no se hiciera un recorrido a lo largo de las distintas capillas del Templo, en las que se pueden contemplar im&aacute,genes y retablos de gran belleza. En la sala A son significativas la serie de vestiduras sagradas correspondientes al siglo XVII, aportadas por alguno de los primeros p&aacute,rrocos, las medallas, galardones y objetos de culto pertenecientes a algunos sacerdotes ilustres. En la sala B, destacan las peque&ntilde,as im&aacute,genes, talladas, la mayor parte en madera, estofadas y policromadas, que se muestran en las vitrinas, y el Baptisterio, formado por una pila bautismal de m&aacute,rmol del Macael, coronada por un templete de madera, que sirve de armario para guardar los elementos bautismales, tras cada celebraci&oacute,n. Por &uacute,ltimo, la visita culmina con la subida al Camar&iacute,n del Santo, por medio de una c&oacute,moda escalera, con barandilla del siglo XVIII, en cuyas paredes laterales se exponen algunas piezas de gran belleza: sacras, cuadros, estandarte, etc., y en su parte alta, a la entrada al Camar&iacute,n, una imagen de San Antonio, en pasta de madera, de Olot, muy vinculada a la historia cercana de nuestra parroquia. Tambi&eacute,n se muestra un tabern&aacute,culo de gran belleza, que se instala en el Monumento del Jueves Santo. Ser&iacute,a incompleta la visita al Museo si no se hiciera un recorrido a lo largo de las distintas capillas del Templo, en las que se pueden contemplar im&aacute,genes y retablos de gran belleza.</p>",
-      "Foto": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002420101_g.jpg",
-      "Foto 2": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002420104_g.jpg",
-      "Foto 3": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002420103_g.jpg",
-      "Foto 4": "http://www.murciaturistica.es/webs/murciaturistica/fotos/1/museos/00002420102_g.jpg"
-    },
-    {
       "id": "4805",
       "Nombre": "Museo Pasos e Imágenes",
       "Dirección": "C/ Fuente Blanca, 18",
@@ -2062,7 +1902,7 @@
     },
     {
       "id": "61",
-      "Nombre": "Museo Regional de Arte Moderno MURAM - Palacio Aguirre",
+      "Nombre": "Regional de Arte Moderno ",
       "Dirección": "Pza. de la Merced, 15-16",
       "C.P.": "30202",
       "Municipio": "Cartagena",

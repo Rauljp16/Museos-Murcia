@@ -20,11 +20,14 @@ function Home() {
        pr-6 
        text-white "
       >
-        <p className=" text-2xl ">CHATOS MURCIANOS</p>
+        <p className=" font-caveat text-3xl">
+          Tradición y cultura de una región
+        </p>
         <p className="font- m-3 flex text-center font-caveat text-lg">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus minima
-          fugiat amet perferendis illo, incidunt praesentium optio magnam dolore
-          in commodi dolorum veniam beatae, aperiam repellat.
+          Sumérgete en una experiencia cultural única en el sur de España, donde
+          la historia cobra vida y el arte se entrelaza con la tradición.
+          Descubre la riqueza de nuestra región a través de sus museos, un viaje
+          fascinante que revela el legado que nos define.
         </p>
         <Link to="/museos">
           <button

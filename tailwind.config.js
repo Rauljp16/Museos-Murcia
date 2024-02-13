@@ -15,6 +15,7 @@ export default {
       },
       fontFamily: {
         caveat: ["caveat", "cursive"],
+        dancing: ["Dancing Script", "cursive"],
       },
     },
   },

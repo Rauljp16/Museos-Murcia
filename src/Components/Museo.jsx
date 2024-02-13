@@ -13,10 +13,10 @@ function Museo({ museos }) {
      "
     >
       <div
-        className="relative bottom-2 m-4 flex h-4/6 w-full flex-col items-center
-          rounded-lg bg-zinc-700"
+        className="relative bottom-2 m-4 flex h-4/6 w-full flex-col items-center rounded-lg
+          bg-zinc-700 md:max-w-2xl"
       >
-        <Link to="/museos" className="fixed left-4 z-10 p-1 ">
+        <Link to="/museos" className="fixed left-4 z-10 p-2 md:left-14 ">
           <svg
             className="h-8 w-8"
             fill="#ffffff"
@@ -50,7 +50,7 @@ function Museo({ museos }) {
           src={detallesMuseo.Foto}
         />
         <h1 className="p-2 font-caveat text-2xl">{detallesMuseo.Nombre}</h1>
-        <p className=" h-48 w-full overflow-auto p-2 font-caveat text-lg">
+        <p className=" h-48 w-full overflow-auto p-4 text-base">
           {detallesMuseo.Descripción}
         </p>
       </div>

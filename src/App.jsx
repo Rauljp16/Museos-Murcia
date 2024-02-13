@@ -5,6 +5,7 @@ import Header from "./Components/Header";
 import Museo from "./Components/Museo";
 import Footer from "./Components/footer";
 import { datosMuseos } from "./db";
+// import './App.css';
 
 function App() {
   const museos = datosMuseos;

@@ -3,7 +3,7 @@ function Footer() {
   return (
     <div
       className="fixed bottom-0 z-10 flex h-14
-     w-full flex-row items-center justify-center gap-x-12 bg-zinc-800"
+     w-full flex-row items-center justify-center gap-x-12 bg-zinc-800 "
     >
       <Link
         to="https://www.linkedin.com/in/ra%C3%BAl-jerez-pag%C3%A1n-35570927a/"

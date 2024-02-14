@@ -2,13 +2,12 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div className="fixed top-0 z-20 flex  h-32 w-full justify-center  bg-zinc-800 text-white ">
-      <div className="flex w-full items-center px-8 lg:max-w-7xl lg:justify-between">
-        <div className=" font-dancing flex w-full flex-col items-center text-5xl tracking-wider lg:w-96">
+      <div className="flex w-full items-center px-8 pt-2 lg:max-w-7xl lg:justify-between">
+        <div className=" flex w-full flex-col items-center font-dancing text-5xl tracking-wider lg:w-96">
           <Link to="/">
             <p className="relative pr-24 md:pr-36">MUSEOS</p>
           </Link>
           <Link to="/">
-            {" "}
             <p className="relative pl-24 md:pl-36">MURCIA</p>
           </Link>
         </div>

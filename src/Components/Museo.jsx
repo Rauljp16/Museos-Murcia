@@ -9,14 +9,14 @@ function Museo({ museos }) {
 
   return (
     <div
-      className=" fixed flex h-screen w-full  items-center justify-center bg-zinc-800 text-white
+      className=" relative top-6 flex h-screen w-full  items-center justify-center bg-zinc-800 text-white 
      "
     >
       <div
         className="relative bottom-2 m-4 flex h-4/6 w-full flex-col items-center rounded-lg
-          bg-zinc-700 md:max-w-2xl"
+          bg-zinc-700 md:max-w-3xl"
       >
-        <Link to="/museos" className="fixed left-4 z-10 p-2 md:left-14 ">
+        <Link to="/museos" className="absolute left-0 z-10 p-3 md:left-0  ">
           <svg
             className="h-8 w-8"
             fill="#ffffff"

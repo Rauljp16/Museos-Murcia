@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 function Footer() {
   return (
     <div
-      className="fixed bottom-0 z-10 flex h-14
-     w-full flex-row items-center justify-center gap-x-12 bg-zinc-800 "
+      className="fixed bottom-0 z-10 flex h-14 w-full
+     flex-row items-center justify-center gap-x-16 bg-zinc-800 md:h-20 md:gap-20 "
     >
       <Link
         to="https://www.linkedin.com/in/ra%C3%BAl-jerez-pag%C3%A1n-35570927a/"
@@ -11,6 +11,7 @@ function Footer() {
         rel="noopener noreferrer"
       >
         <svg
+          className=" md:h-8 md:w-8"
           fill="#ffffff"
           version="1.1"
           id="Layer_1"
@@ -36,6 +37,7 @@ function Footer() {
       </Link>
       <Link to="" target="_blank" rel="noopener noreferrer">
         <svg
+          className=" md:h-10 md:w-10"
           fill="#ffffff"
           width="30px"
           height="30px"
@@ -57,6 +59,7 @@ function Footer() {
         rel="noopener noreferrer"
       >
         <svg
+          className=" md:h-12 md:w-12"
           width="33px"
           height="33px"
           viewBox="0 0 24 24"

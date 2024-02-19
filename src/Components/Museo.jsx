@@ -14,7 +14,7 @@ function Museo({ museos }) {
     >
       <div
         className="relative bottom-2 m-4 flex h-4/6 w-full flex-col items-center rounded-lg
-          bg-zinc-700 md:max-w-3xl"
+          bg-zinc-700 md:max-w-3xl "
       >
         <Link to="/museos" className="absolute left-0 z-10 p-3 md:left-0  ">
           <svg
@@ -59,14 +59,3 @@ function Museo({ museos }) {
 }
 
 export default Museo;
-
-{
-  /* <li className=" font-bold">
-        <Link to="/museos">Museos</Link>
-      </li>
-
-      <div className="absolute bottom-1/2 ">
-        <p>prueba museo componente{id}</p>
-        <p>este es el nombre{detallesMuseo.Nombre}</p>
-      </div> */
-}

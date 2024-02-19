@@ -10,6 +10,8 @@ import { datosMuseos } from "./db";
 function App() {
   const museos = datosMuseos;
 
+  //Esta seria la llamada a la api con axios pero por problemas con la api finalmente lo tuve que dejar en local en el archivo 'db.json'
+
   // useEffect(() => {
   //   axios
   //     .get(

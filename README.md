@@ -8,7 +8,15 @@
 
 ⚡ Proyecto totalmente "Responsive" con una interfaz minimalista y elegante.
 
-https://github.com/Rauljp16/Museos-Murcia/assets/110561721/648384d9-75ca-4da8-9b19-74e7eacae06b
+<br/>
+
+## 🎥 Video responsive de la aplicación.
+
+https://github.com/Rauljp16/Museos-Murcia/assets/110561721/648384d9-75ca-4da8-9b19-74e7eacae06b 
+
+<br/>
+
+## 🖼 imagenes de la aplicación.
 
 1️⃣
 

@@ -1,21 +1,54 @@
 # Museos Murcia
 
-## 👋 Welcome! 👋
+## 👋 Bienvenido! 👋
 
-😍 Thanks for coming to my Tic Tac Toe App!
+😍 Gracias por visitar mi repositorio de Museos Murcia!
 
-🛠 **Created with React + HTML + CSS + Tailwind**
+🛠 **Creado con React + Vite + Tailwind**
 
-⚡ Let's do a quick check out! This images are from project. It's a simple project to practice and improve my logic
+⚡ Proyecto totalmente "Responsive" con una interfaz minimalista y elegante.
+
+<br/>
+
+## 🎥 Video responsive de la aplicación.
+
+https://github.com/Rauljp16/Museos-Murcia/assets/110561721/648384d9-75ca-4da8-9b19-74e7eacae06b 
+
+<br/>
+
+## 🖼 imagenes de la aplicación.
 
 1️⃣
 
- <img src="img/Home.png">
+<img src="src/img/Home.png" width="700" height="400" >
 
 2️⃣
 
-<img src="img/Museos.png">
+<img src="src/img/Museos.png" width="700" height="400" >
 
-3
+3️⃣
 
-<img src="img/Museos.png">
+<img src="src/img/Museo.png" width="700" height="400" >
+
+<br/>
+
+## Pasos para ejecutar el proyecto:
+
+- Clonar el proyecto en tu máquina local
+
+```batch
+ git clone https://github.com/Rauljp16/Museos-Murcia.git
+```
+
+- Abrir el proyecto algún editor de código (Visual Studio Code, Sublime Text, etc)
+- Instalr los paquetes de cada proyecto con
+
+```batch
+ npm install
+```
+
+- Inicializar el servidor de desarrollo
+
+```batch
+ npm run dev
+```
